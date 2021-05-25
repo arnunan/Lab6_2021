@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAFGame", "CAFGame\CAFGame.csproj", "{54E22F3E-6FC9-45AC-848A-1C1A9EF2D40F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{84AB6234-EE67-41B6-8085-CFF655A45877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54E22F3E-6FC9-45AC-848A-1C1A9EF2D40F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E22F3E-6FC9-45AC-848A-1C1A9EF2D40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E22F3E-6FC9-45AC-848A-1C1A9EF2D40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E22F3E-6FC9-45AC-848A-1C1A9EF2D40F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84AB6234-EE67-41B6-8085-CFF655A45877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84AB6234-EE67-41B6-8085-CFF655A45877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84AB6234-EE67-41B6-8085-CFF655A45877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
