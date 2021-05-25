@@ -16,11 +16,15 @@ namespace CAFGame
 
         public CannonProjectile(Vector2 dirVector, Vector2 startPos, string spriteName, bool enemyProjectile)
         {
-            Size = 16;
-            moveDir = Vector2.Normalize(dirVector) * StartSpeed;
+            var dir = Vector2.Normalize(dirVector) * StartSpeed;
+            dir.X *= Environment.ScreenResolutionMultiplier.X;
+            dir.Y *= Environment.ScreenResolutionMultiplier.Y;
+            moveDir = dir;
             Pos = startPos;
             this.enemyProjectile = enemyProjectile;
-            Sprite = new Bitmap("Assets\\Sprites\\" + spriteName + ".png");
+            Img = new Bitmap("Assets\\Sprites\\" + spriteName + ".png");
+            Size = (Img.Width + Img.Height) / 4;
+            ResizeSprite();
         }
 
         public void Update(List<CannonProjectile> projplayer, List<CannonProjectile> projenemy)
@@ -47,7 +51,7 @@ namespace CAFGame
         private void ChangeMoveDir()
         {
             var deltaTimeMilliseconds = Environment.DeltaTime.Milliseconds / 1000f;
-            moveDir.Y += (float) Environment.Gravity * deltaTimeMilliseconds;
+            moveDir.Y += (float) Environment.Gravity * Environment.ScreenResolutionMultiplier.Y * deltaTimeMilliseconds;
         }
 
         private void CheckCollision(List<CannonProjectile> projsPlayer, List<CannonProjectile> projsEnemy)

@@ -21,42 +21,62 @@ namespace CAFGame
         public static CurrentGenre CurrentGenre = CurrentGenre.Tds;
         public static GameState GameState;
 
-        public static GameObject BG = new GameObject(new Vector2(),
-            new Bitmap("Assets\\Sprites\\BG.png"));
+        public static Point desktopLocation;
 
-        public static GameObject TDSBG = new GameObject(new Vector2(),
-            new Bitmap("Assets\\Sprites\\TDSBG.png"));
+        public static Rectangle ScreenResolution = new Rectangle {Width = 1280, Height = 720};
+        public static Vector2 BaseScreenResolution = new Vector2(1920, 1080);
 
-        public static GameObject PTBG = new GameObject(new Vector2(),
-            new Bitmap("Assets\\Sprites\\PTBG.png"));
+        public static Vector2 ScreenResolutionMultiplier = new Vector2(ScreenResolution.Width / BaseScreenResolution.X,
+            ScreenResolution.Height / BaseScreenResolution.Y);
 
-        public static GameObject SBG = new GameObject(new Vector2(),
-            new Bitmap("Assets\\Sprites\\SBG.png"));
 
-        public static GameObject MenuBG = new GameObject(new Vector2(),
-            new Bitmap("Assets\\Sprites\\MenuBG.png"));
-
-        public static GameObject Logo = new GameObject(new Vector2(),
-            new Bitmap("Assets\\Sprites\\Logo.png"));
-
-        public static GameObject Heart = new GameObject(new Vector2(),
-            new Bitmap("Assets\\Sprites\\Heart.png"));
-
-        public static GameObject Platform = new GameObject(new Vector2(),
-            new Bitmap("Assets\\Sprites\\Platform.png"));
-
-        public static GameObject RevolverDrum = new GameObject(new Vector2(),
-            new Bitmap("Assets\\Sprites\\RevolverDrum.png"));
-
-        public static GameObject RevolverBullet = new GameObject(new Vector2(),
-            new Bitmap("Assets\\Sprites\\RevolverBullet.png"));
+        public static GameObject BG;
+        public static GameObject TDSBG;
+        public static GameObject PTBG;
+        public static GameObject SBG;
+        public static GameObject MenuBG;
+        public static GameObject Logo;
+        public static GameObject Heart;
+        public static GameObject Platform;
+        public static GameObject RevolverDrum;
+        public static GameObject RevolverBullet;
 
 
         public static TimeSpan DeltaTime;
         private static DateTime time = DateTime.Now;
 
-        public static Vector2 PosRangeTopLeft = new Vector2(0 + 130, 0 + 125);
-        public static Vector2 PosRangeBottomRight = new Vector2(1920 - 440, 1080 - 110);
+        public static Vector2 PosRangeTopLeft =
+            new Vector2(0 + 130 * ScreenResolutionMultiplier.X, 0 + 125 * ScreenResolutionMultiplier.Y);
+
+        public static Vector2 PosRangeBottomRight =
+            new Vector2(ScreenResolution.Width - 440 * ScreenResolutionMultiplier.X,
+                ScreenResolution.Height - 110 * ScreenResolutionMultiplier.Y);
+
+        public static void RecalculateScreenParameters(Rectangle resolution)
+        {
+            ScreenResolution = resolution;
+            ScreenResolutionMultiplier = new Vector2(ScreenResolution.Width / BaseScreenResolution.X,
+                (ScreenResolution.Height + 40) / BaseScreenResolution.Y);
+            PosRangeTopLeft = new Vector2(0 + 130 * ScreenResolutionMultiplier.X,
+                0 + 125 * ScreenResolutionMultiplier.Y);
+            PosRangeBottomRight = new Vector2(ScreenResolution.Width - 440 * ScreenResolutionMultiplier.X,
+                ScreenResolution.Height - 110 * ScreenResolutionMultiplier.Y);
+        }
+
+        public static void InitializeGameObjects()
+        {
+            BG = new GameObject(new Vector2(), new Bitmap("Assets\\Sprites\\BG.png"));
+            TDSBG = new GameObject(new Vector2(), new Bitmap("Assets\\Sprites\\TDSBG.png"));
+            PTBG = new GameObject(new Vector2(), new Bitmap("Assets\\Sprites\\PTBG.png"));
+            SBG = new GameObject(new Vector2(), new Bitmap("Assets\\Sprites\\SBG.png"));
+            MenuBG = new GameObject(new Vector2(), new Bitmap("Assets\\Sprites\\MenuBG.png"));
+            Logo = new GameObject(new Vector2(), new Bitmap("Assets\\Sprites\\Logo.png"));
+            Heart = new GameObject(new Vector2(), new Bitmap("Assets\\Sprites\\Heart.png"));
+            Platform = new GameObject(new Vector2(), new Bitmap("Assets\\Sprites\\Platform.png"));
+            RevolverDrum = new GameObject(new Vector2(), new Bitmap("Assets\\Sprites\\RevolverDrum.png"));
+            RevolverBullet = new GameObject(new Vector2(), new Bitmap("Assets\\Sprites\\RevolverBullet.png"));
+        }
+
 
         public static void Update()
         {

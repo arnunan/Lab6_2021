@@ -17,7 +17,9 @@ namespace CAFGame
             ShootDelay = 700;
             ShootDelayTimer = 0;
             lastMousePos = new Vector2(Control.MousePosition.X, Control.MousePosition.Y);
-            Sprite = new Bitmap("Assets\\Sprites\\Aim.png");
+            Img = new Bitmap("Assets\\Sprites\\Aim.png");
+            Size = (Img.Width + Img.Height) / 4;
+            ResizeSprite();
         }
 
         public override void Update(List<Bullet> bulletEnemy, List<Enemy> enemies, List<CannonProjectile> projs)

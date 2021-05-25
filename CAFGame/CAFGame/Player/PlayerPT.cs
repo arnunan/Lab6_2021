@@ -17,8 +17,10 @@ namespace CAFGame
             Hp = hp;
             ShootDelay = 1500;
             ShootDelayTimer = 0;
-            Sprite = new Bitmap("Assets\\Sprites\\PlayerPT.png");
+            Img = new Bitmap("Assets\\Sprites\\PlayerPT.png");
+            Size = (Img.Width + Img.Height) / 4;
             shootSound = new SoundPlayer("Assets\\Sounds\\Laser_Shoot14.wav");
+            ResizeSprite();
         }
 
         public override void Update(List<Bullet> bulletEnemy, List<Enemy> enemies, List<CannonProjectile> projs)

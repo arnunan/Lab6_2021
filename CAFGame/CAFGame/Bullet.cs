@@ -19,9 +19,11 @@ namespace CAFGame
             moveDir = dirVector;
             Pos = startPos;
             this.speed = speed;
-            Size = 8;
+
             this.enemyBullet = enemyBullet;
-            Sprite = new Bitmap("Assets\\Sprites\\" + spriteName + ".png");
+            Img = new Bitmap("Assets\\Sprites\\" + spriteName + ".png");
+            Size = (Img.Width + Img.Height) / 4;
+            ResizeSprite();
         }
 
         public void Update()
@@ -40,10 +42,13 @@ namespace CAFGame
 
         private void Move()
         {
-            Pos += Vector2.Normalize(moveDir) * speed * 100 /
-                   (1000 / (Environment.DeltaTime.Milliseconds == 0
-                        ? 15f
-                        : Environment.DeltaTime.Milliseconds));
+            var deltaPos = Vector2.Normalize(moveDir) * speed * 100 /
+                           (1000 / (Environment.DeltaTime.Milliseconds == 0
+                                ? 15f
+                                : Environment.DeltaTime.Milliseconds));
+            deltaPos.X *= Environment.ScreenResolutionMultiplier.X;
+            deltaPos.Y *= Environment.ScreenResolutionMultiplier.Y;
+            Pos += deltaPos;
         }
     }
 }

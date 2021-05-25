@@ -75,3 +75,5 @@ C:\Users\User\RiderProjects\CAFGame\CAFGame\bin\SwitchTheGenre\netcoreapp3.0\CAF
 C:\Users\User\RiderProjects\CAFGame\CAFGame\bin\SwitchTheGenre\netcoreapp3.0\CAFGame.runtimeconfig.dev.json
 C:\Users\User\RiderProjects\CAFGame\CAFGame\bin\SwitchTheGenre\netcoreapp3.0\CAFGame.dll
 C:\Users\User\RiderProjects\CAFGame\CAFGame\bin\SwitchTheGenre\netcoreapp3.0\CAFGame.pdb
+C:\Users\User\RiderProjects\CAFGame\CAFGame\bin\SwitchTheGenre\netcoreapp3.0\Assets\Sprites\Logo.png
+C:\Users\User\RiderProjects\CAFGame\CAFGame\bin\SwitchTheGenre\netcoreapp3.0\Assets\Sprites\MenuBG.png

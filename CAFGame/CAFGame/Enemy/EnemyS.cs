@@ -13,7 +13,9 @@ namespace CAFGame
             ShootDelayTimer = 0;
             Speed = 1;
             MoveDelayTimer = MoveDelay;
-            Sprite = new Bitmap("Assets\\Sprites\\EnemyS.png");
+            Img = new Bitmap("Assets\\Sprites\\EnemyS.png");
+            Size = (Img.Width + Img.Height) / 4;
+            ResizeSprite();
         }
 
         public override void Update(List<Bullet> bulletsPlayer, List<CannonProjectile> projPlayer)

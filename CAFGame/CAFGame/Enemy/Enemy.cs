@@ -31,7 +31,6 @@ namespace CAFGame
         {
             Pos = new Vector2 {X = startX, Y = startY};
             Target = target;
-            Size = 44;
             Hp = hp;
             ZoneCentre = zoneCentre;
             hitSound = new SoundPlayer("Assets\\Sounds\\Hit_Hurt3.wav");
@@ -84,10 +83,13 @@ namespace CAFGame
 
         private void Move(Vector2 moveDir)
         {
-            Pos += Vector2.Normalize(moveDir) * Speed * 100 /
-                   (1000 / (Environment.DeltaTime.Milliseconds == 0
-                        ? 15f
-                        : Environment.DeltaTime.Milliseconds));
+            var deltaPos = Vector2.Normalize(moveDir) * Speed * 100 /
+                           (1000 / (Environment.DeltaTime.Milliseconds == 0
+                                ? 15f
+                                : Environment.DeltaTime.Milliseconds));
+            deltaPos.X *= Environment.ScreenResolutionMultiplier.X;
+            deltaPos.Y *= Environment.ScreenResolutionMultiplier.Y;
+            Pos += deltaPos;
         }
 
         protected void CheckCollision(List<Bullet> bullets, List<CannonProjectile> projs)

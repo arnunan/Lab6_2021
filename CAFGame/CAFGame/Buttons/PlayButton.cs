@@ -8,7 +8,6 @@ namespace CAFGame
         public PlayButton(Vector2 pos) : base(pos)
         {
             Img = new Bitmap("Assets\\Sprites\\PlayButton.png");
-
             Sprite = new Bitmap(Img, CurrSize);
         }
 

@@ -10,7 +10,8 @@ namespace CAFGame
 
         public MuteSoundButton(Vector2 pos) : base(pos)
         {
-            BaseSize = new Size(50, 50);
+            BaseSize = new Size((int) (50 * Environment.ScreenResolutionMultiplier.X),
+                (int) (50 * Environment.ScreenResolutionMultiplier.Y));
             Img = ImgUnmute;
             Sprite = new Bitmap(Img, CurrSize);
         }

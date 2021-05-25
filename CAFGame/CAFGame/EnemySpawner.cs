@@ -10,22 +10,39 @@ namespace CAFGame
 
         private static readonly Vector2[] SpawnPoints =
         {
-            new Vector2(801, 0), // Up
-            new Vector2(801, 1080), // Down
-            new Vector2(1605, 540), // Right
-            new Vector2(0, 540) // Left
+            new Vector2(801 * Environment.ScreenResolutionMultiplier.X, 0), // Up
+            new Vector2(801 * Environment.ScreenResolutionMultiplier.X, Environment.ScreenResolution.Height), // Down
+            new Vector2(1605 * Environment.ScreenResolutionMultiplier.X,
+                540 * Environment.ScreenResolutionMultiplier.Y), // Right
+            new Vector2(0, 540 * Environment.ScreenResolutionMultiplier.Y) // Left
         };
 
         public static Tuple<Vector2, Vector2, Enemy, bool>[] EnemySpots =
         {
-            new Tuple<Vector2, Vector2, Enemy, bool>(new Vector2(400, 300), SpawnPoints[3], null, false), //UpLeft
-            new Tuple<Vector2, Vector2, Enemy, bool>(new Vector2(800, 300), SpawnPoints[0], null, false), //Up
-            new Tuple<Vector2, Vector2, Enemy, bool>(new Vector2(1250, 300), SpawnPoints[0], null, false), //UpRight
-            new Tuple<Vector2, Vector2, Enemy, bool>(new Vector2(1250, 545), SpawnPoints[2], null, false), //Right
-            new Tuple<Vector2, Vector2, Enemy, bool>(new Vector2(1250, 830), SpawnPoints[2], null, false), //DownRight
-            new Tuple<Vector2, Vector2, Enemy, bool>(new Vector2(800, 830), SpawnPoints[1], null, false), //Down
-            new Tuple<Vector2, Vector2, Enemy, bool>(new Vector2(400, 830), SpawnPoints[1], null, false), //DownLeft
-            new Tuple<Vector2, Vector2, Enemy, bool>(new Vector2(400, 545), SpawnPoints[3], null, false) //Left
+            new Tuple<Vector2, Vector2, Enemy, bool>(
+                new Vector2(400 * Environment.ScreenResolutionMultiplier.X,
+                    300 * Environment.ScreenResolutionMultiplier.Y), SpawnPoints[3], null, false), //UpLeft
+            new Tuple<Vector2, Vector2, Enemy, bool>(
+                new Vector2(800 * Environment.ScreenResolutionMultiplier.X,
+                    300 * Environment.ScreenResolutionMultiplier.Y), SpawnPoints[0], null, false), //Up
+            new Tuple<Vector2, Vector2, Enemy, bool>(
+                new Vector2(1250 * Environment.ScreenResolutionMultiplier.X,
+                    300 * Environment.ScreenResolutionMultiplier.Y), SpawnPoints[0], null, false), //UpRight
+            new Tuple<Vector2, Vector2, Enemy, bool>(
+                new Vector2(1250 * Environment.ScreenResolutionMultiplier.X,
+                    545 * Environment.ScreenResolutionMultiplier.Y), SpawnPoints[2], null, false), //Right
+            new Tuple<Vector2, Vector2, Enemy, bool>(
+                new Vector2(1250 * Environment.ScreenResolutionMultiplier.X,
+                    830 * Environment.ScreenResolutionMultiplier.Y), SpawnPoints[2], null, false), //DownRight
+            new Tuple<Vector2, Vector2, Enemy, bool>(
+                new Vector2(800 * Environment.ScreenResolutionMultiplier.X,
+                    830 * Environment.ScreenResolutionMultiplier.Y), SpawnPoints[1], null, false), //Down
+            new Tuple<Vector2, Vector2, Enemy, bool>(
+                new Vector2(400 * Environment.ScreenResolutionMultiplier.X,
+                    830 * Environment.ScreenResolutionMultiplier.Y), SpawnPoints[1], null, false), //DownLeft
+            new Tuple<Vector2, Vector2, Enemy, bool>(
+                new Vector2(400 * Environment.ScreenResolutionMultiplier.X,
+                    545 * Environment.ScreenResolutionMultiplier.Y), SpawnPoints[3], null, false) //Left
         };
 
         private readonly float makeItHarderDelay = 40000;

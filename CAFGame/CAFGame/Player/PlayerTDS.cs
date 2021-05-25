@@ -18,8 +18,10 @@ namespace CAFGame
             speed = 7;
             ShootDelay = 1500;
             ShootDelayTimer = 0;
-            Sprite = new Bitmap("Assets\\Sprites\\PlayerTDS.png");
+            Img = new Bitmap("Assets\\Sprites\\PlayerTDS.png");
+            Size = (Img.Width + Img.Height) / 4;
             shootSound = new SoundPlayer("Assets\\Sounds\\Laser_Shoot9.wav");
+            ResizeSprite();
         }
 
         public override void Update(List<Bullet> bulletEnemy, List<Enemy> enemies, List<CannonProjectile> projs)
@@ -32,8 +34,9 @@ namespace CAFGame
         {
             if (Settings.SoundEnabled) shootSound.Play();
             Environment.BulletsPlayer.Add(new Bullet(
-                new Vector2(Control.MousePosition.X - Form1.desktopLocation.X,
-                    Control.MousePosition.Y - Form1.desktopLocation.Y) - Pos, Pos, "BulletPlayer", bulletSpeed, false));
+                new Vector2(Control.MousePosition.X - Environment.desktopLocation.X,
+                    Control.MousePosition.Y - Environment.desktopLocation.Y) - Pos, Pos, "BulletPlayer", bulletSpeed,
+                false));
         }
 
         private void CheckMovement()
@@ -55,6 +58,8 @@ namespace CAFGame
                            (1000 / (Environment.DeltaTime.Milliseconds == 0
                                 ? 15f
                                 : Environment.DeltaTime.Milliseconds));
+            deltaPos.X *= Environment.ScreenResolutionMultiplier.X;
+            deltaPos.Y *= Environment.ScreenResolutionMultiplier.Y;
             var newPos = Pos + deltaPos;
 
             if (newPos.X + Size > Environment.PosRangeBottomRight.X ||

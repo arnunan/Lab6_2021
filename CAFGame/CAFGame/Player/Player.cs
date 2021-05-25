@@ -15,7 +15,6 @@ namespace CAFGame
         protected Player(float startX, float startY)
         {
             Pos = new Vector2(startX, startY);
-            Size = 44;
             Hp = 3;
             hitSound = new SoundPlayer("Assets\\Sounds\\Hit_Hurt9.wav");
         }

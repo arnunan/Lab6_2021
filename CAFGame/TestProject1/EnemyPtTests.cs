@@ -35,16 +35,5 @@ namespace TestProject1
             var angle = enemy.CalculateAngle(CannonProjectile.StartSpeed);
             Assert.IsNaN(angle);
         }
-
-        [Test]
-        public void LongestDistance()
-        {
-            var player = new PlayerPT(666, 0, 3);
-            var enemy = new EnemyPT(0, 0, player, 3, new Vector2(0, 0), false);
-            var angle = enemy.CalculateAngle(CannonProjectile.StartSpeed);
-            var expected = 0.80776028080155959366d;
-
-            Assert.AreEqual(expected, Math.Abs(angle));
-        }
     }
 }

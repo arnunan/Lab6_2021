@@ -76,7 +76,7 @@
         <e p="GameState.cs" t="Include" />
         <e p="GenreChanger.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
+          <e p="Release" t="Include">
             <e p="netcoreapp3.0" t="Include">
               <e p="CAFGame.AssemblyInfo.cs" t="Include" />
             </e>
@@ -101,7 +101,7 @@
         <e p="EnvironmentTests.cs" t="Include" />
         <e p="GameFieldBorders.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
+          <e p="Release" t="Include">
             <e p="netcoreapp3.0" t="Include">
               <e p="TestProject1.AssemblyInfo.cs" t="Include" />
             </e>

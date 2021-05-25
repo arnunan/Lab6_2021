@@ -9,9 +9,12 @@ namespace CAFGame
     {
         private readonly SoundPlayer clickSound;
         private readonly float scaleMultiplier = 1.2f;
-        protected Size BaseSize = new Size(178, 50);
+
+        protected Size BaseSize = new Size((int) (178 * Environment.ScreenResolutionMultiplier.X),
+            (int) (50 * Environment.ScreenResolutionMultiplier.Y));
+
         protected Size CurrSize;
-        protected Image Img;
+        protected new Image Img;
 
         protected bool MouseDown;
 
@@ -60,10 +63,10 @@ namespace CAFGame
 
         private bool MouseOnButton()
         {
-            return Control.MousePosition.X - Form1.desktopLocation.X < Pos.X + CurrSize.Width / 2f &&
-                   Control.MousePosition.X - Form1.desktopLocation.X > Pos.X - CurrSize.Width / 2f &&
-                   Control.MousePosition.Y - Form1.desktopLocation.Y < Pos.Y + CurrSize.Height / 2f &&
-                   Control.MousePosition.Y - Form1.desktopLocation.Y > Pos.Y - CurrSize.Height / 2f;
+            return Control.MousePosition.X - Environment.desktopLocation.X < Pos.X + CurrSize.Width / 2f &&
+                   Control.MousePosition.X - Environment.desktopLocation.X > Pos.X - CurrSize.Width / 2f &&
+                   Control.MousePosition.Y - Environment.desktopLocation.Y < Pos.Y + CurrSize.Height / 2f &&
+                   Control.MousePosition.Y - Environment.desktopLocation.Y > Pos.Y - CurrSize.Height / 2f;
         }
     }
 }
