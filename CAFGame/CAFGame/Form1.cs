@@ -44,6 +44,7 @@ namespace CAFGame
             timer.Start();
             Environment.RecalculateScreenParameters(Screen.PrimaryScreen.WorkingArea);
             Environment.InitializeGameObjects();
+            EnemySpawner.InitializeEnemySpots();
             StartMenu();
         }
 
@@ -78,12 +79,11 @@ namespace CAFGame
         public static void StartGame()
         {
             Environment.GameState = GameState.Game;
-            Score = 0;
             Environment.CurrentGenre = CurrentGenre.Tds;
+            EnemySpawner.RestartTimer();
+            Score = 0;
             var playerPos =
-                new Vector2(
-                    124 * Environment.ScreenResolutionMultiplier.X +
-                    (Environment.ScreenResolution.Width - (124 + 436) * Environment.ScreenResolutionMultiplier.X) / 2f,
+                new Vector2(124 * Environment.ScreenResolutionMultiplier.X + (Environment.ScreenResolution.Width - (124 + 436) * Environment.ScreenResolutionMultiplier.X) / 2f,
                     Environment.ScreenResolution.Height / 2f);
             CreatePlayer((int) playerPos.X, (int) playerPos.Y);
         }
@@ -243,12 +243,10 @@ namespace CAFGame
             for (var i = 0; i < t.ShootDelayTimer / 1000; i++)
             {
                 var angle = Math.PI / 3f * i;
-                var r = 7;
+                var r = 7 * (Environment.ScreenResolutionMultiplier.X + Environment.ScreenResolutionMultiplier.Y) / 2f;
                 var bulletPos = new Vector2(
-                    (float) (Environment.RevolverDrum.Pos.X + r * Math.Cos(angle)) *
-                    Environment.ScreenResolutionMultiplier.X,
-                    (float) (Environment.RevolverDrum.Pos.Y + r * Math.Sin(angle)) *
-                    Environment.ScreenResolutionMultiplier.Y);
+                    (float) (Environment.RevolverDrum.Pos.X + r * Math.Cos(angle)),
+                    (float) (Environment.RevolverDrum.Pos.Y + r * Math.Sin(angle)));
                 g.DrawImage(Environment.RevolverBullet.Sprite,
                     new Point((int) bulletPos.X - Environment.RevolverBullet.Sprite.Width / 2,
                         (int) bulletPos.Y - Environment.RevolverBullet.Sprite.Height / 2));

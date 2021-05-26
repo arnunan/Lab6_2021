@@ -18,9 +18,9 @@ namespace CAFGame
             MoveDelayTimer = MoveDelay;
             Speed = 1;
             Img = new Bitmap("Assets\\Sprites\\EnemyTDS.png");
-            Size = (Img.Width + Img.Height) / 4;
             shootSound = new SoundPlayer("Assets\\Sounds\\Laser_Shoot10.wav");
             ResizeSprite();
+            Size = (Sprite.Width + Sprite.Height) / 4;
         }
 
         public override void Update(List<Bullet> bulletsPlayer, List<CannonProjectile> projPlayer)

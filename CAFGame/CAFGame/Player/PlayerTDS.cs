@@ -19,9 +19,9 @@ namespace CAFGame
             ShootDelay = 1500;
             ShootDelayTimer = 0;
             Img = new Bitmap("Assets\\Sprites\\PlayerTDS.png");
-            Size = (Img.Width + Img.Height) / 4;
             shootSound = new SoundPlayer("Assets\\Sounds\\Laser_Shoot9.wav");
             ResizeSprite();
+            Size = (Sprite.Width + Sprite.Height) / 4;
         }
 
         public override void Update(List<Bullet> bulletEnemy, List<Enemy> enemies, List<CannonProjectile> projs)

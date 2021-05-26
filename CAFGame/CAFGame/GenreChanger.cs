@@ -8,7 +8,7 @@ namespace CAFGame
     public class GenreChanger
     {
         public static float GenreChangeTimer;
-        private readonly float genreChangeDelay = 20_000;
+        private readonly float genreChangeDelay = 20000;
 
 
         public void Update()

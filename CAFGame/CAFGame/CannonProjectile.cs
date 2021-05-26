@@ -23,8 +23,8 @@ namespace CAFGame
             Pos = startPos;
             this.enemyProjectile = enemyProjectile;
             Img = new Bitmap("Assets\\Sprites\\" + spriteName + ".png");
-            Size = (Img.Width + Img.Height) / 4;
             ResizeSprite();
+            Size = (Sprite.Width + Sprite.Height) / 4;
         }
 
         public void Update(List<CannonProjectile> projplayer, List<CannonProjectile> projenemy)

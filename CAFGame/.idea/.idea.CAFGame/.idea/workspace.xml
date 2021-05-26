@@ -24,18 +24,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestProject1/EnemyPtTests.cs">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CAFGame/Environment.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+            <state relative-caret-position="290">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
-                <marker date="1621969956075" expanded="true" signature="6:75" ph="..." />
-                <marker date="1621969956075" expanded="true" signature="98:1214" ph="{...}" />
-                <marker date="1621969956075" expanded="true" signature="130:1212" ph="{...}" />
-                <marker date="1621969956075" expanded="true" signature="185:513" ph="{...}" />
-                <marker date="1621969956075" expanded="true" signature="563:890" ph="{...}" />
-                <marker date="1621969956075" expanded="true" signature="946:1206" ph="{...}" />
+                <marker date="1622025260850" expanded="true" signature="6:92" ph="..." />
+                <marker date="1622025260850" expanded="true" signature="111:4692" ph="{...}" />
+                <marker date="1622025260850" expanded="true" signature="149:4690" ph="{...}" />
+                <marker date="1622025260850" expanded="true" signature="2195:2759" ph="{...}" />
+                <marker date="1622025260850" expanded="true" signature="2811:3787" ph="{...}" />
+                <marker date="1622025260850" expanded="true" signature="3825:3923" ph="{...}" />
+                <marker date="1622025260850" expanded="true" signature="3975:4151" ph="{...}" />
+                <marker date="1622025260850" expanded="true" signature="4203:4256" ph="{...}" />
+                <marker date="1622025260850" expanded="true" signature="4308:4357" ph="{...}" />
+                <marker date="1622025260850" expanded="true" signature="4441:4684" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -44,97 +48,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CAFGame/CannonProjectile.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-198">
-              <caret line="36" column="50" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
+            <state relative-caret-position="-622">
+              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
               <folding>
-                <marker date="1621969956115" expanded="false" signature="6:78" ph="..." />
-                <marker date="1621969956115" expanded="true" signature="97:2714" ph="{...}" />
-                <marker date="1621969956115" expanded="true" signature="146:2712" ph="{...}" />
-                <marker date="1621969956115" expanded="true" signature="480:948" ph="{...}" />
-                <marker date="1621969956115" expanded="true" signature="1045:1526" ph="{...}" />
-                <marker date="1621969956115" expanded="true" signature="1276:1516" ph="{...}" />
-                <marker date="1621969956115" expanded="true" signature="1555:1603" ph="{...}" />
-                <marker date="1621969956115" expanded="true" signature="1641:1866" ph="{...}" />
-                <marker date="1621969956115" expanded="true" signature="1974:2288" ph="{...}" />
-                <marker date="1621969956115" expanded="true" signature="2356:2496" ph="{...}" />
-                <marker date="1621969956115" expanded="true" signature="2565:2706" ph="{...}" />
+                <marker date="1621977192563" expanded="false" signature="6:78" ph="..." />
+                <marker date="1621977192563" expanded="true" signature="97:2720" ph="{...}" />
+                <marker date="1621977192563" expanded="true" signature="146:2718" ph="{...}" />
+                <marker date="1621977192563" expanded="true" signature="480:954" ph="{...}" />
+                <marker date="1621977192563" expanded="true" signature="1051:1532" ph="{...}" />
+                <marker date="1621977192563" expanded="true" signature="1282:1522" ph="{...}" />
+                <marker date="1621977192563" expanded="true" signature="1561:1609" ph="{...}" />
+                <marker date="1621977192563" expanded="true" signature="1647:1872" ph="{...}" />
+                <marker date="1621977192563" expanded="true" signature="1980:2294" ph="{...}" />
+                <marker date="1621977192563" expanded="true" signature="2362:2502" ph="{...}" />
+                <marker date="1621977192563" expanded="true" signature="2571:2712" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CAFGame/GenreChanger.cs">
+        <entry file="file://$PROJECT_DIR$/CAFGame/Player/PlayerS.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="285">
+              <caret line="21" column="54" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
               <folding>
-                <marker date="1621938368498" expanded="true" signature="6:86" ph="..." />
-                <marker date="1621938368498" expanded="true" signature="105:3723" ph="{...}" />
-                <marker date="1621938368498" expanded="true" signature="137:3721" ph="{...}" />
-                <marker date="1621938368498" expanded="true" signature="278:533" ph="{...}" />
-                <marker date="1621938368498" expanded="true" signature="410:523" ph="{...}" />
-                <marker date="1621938368498" expanded="true" signature="569:861" ph="{...}" />
-                <marker date="1621938368498" expanded="false" signature="896:1784" ph="{...}" />
-                <marker date="1621938368498" expanded="true" signature="1244:1774" ph="{...}" />
-                <marker date="1621938368498" expanded="false" signature="1818:2710" ph="{...}" />
-                <marker date="1621938368498" expanded="true" signature="2164:2700" ph="{...}" />
-                <marker date="1621938368498" expanded="false" signature="2743:3715" ph="{...}" />
-                <marker date="1621938368498" expanded="true" signature="3177:3705" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CAFGame/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-              <folding>
-                <marker date="1621500909401" expanded="true" signature="6:41" ph="..." />
-                <marker date="1621500909401" expanded="true" signature="60:507" ph="{...}" />
-                <marker date="1621500909401" expanded="true" signature="96:505" ph="{...}" />
-                <marker date="1621500909401" expanded="true" signature="111:205" ph="///     The main entry point for the application. ... " />
-                <marker date="1621500909401" expanded="true" signature="260:499" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CAFGame/GameObject.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <marker date="1621969956125" expanded="true" signature="6:44" ph="..." />
-                <marker date="1621969956125" expanded="true" signature="63:811" ph="{...}" />
-                <marker date="1621969956125" expanded="true" signature="93:809" ph="{...}" />
-                <marker date="1621969956125" expanded="true" signature="303:405" ph="{...}" />
-                <marker date="1621969956125" expanded="true" signature="437:457" ph="{...}" />
-                <marker date="1621969956125" expanded="true" signature="496:803" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CAFGame/Environment.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="62" column="78" selection-start-line="62" selection-start-column="78" selection-end-line="62" selection-end-column="78" />
-              <folding>
-                <marker date="1621970702705" expanded="true" signature="6:92" ph="..." />
-                <marker date="1621970702705" expanded="true" signature="111:4692" ph="{...}" />
-                <marker date="1621970702705" expanded="true" signature="149:4690" ph="{...}" />
-                <marker date="1621970702705" expanded="true" signature="2195:2759" ph="{...}" />
-                <marker date="1621970702705" expanded="true" signature="2811:3787" ph="{...}" />
-                <marker date="1621970702705" expanded="true" signature="3825:3923" ph="{...}" />
-                <marker date="1621970702705" expanded="true" signature="3975:4151" ph="{...}" />
-                <marker date="1621970702705" expanded="true" signature="4203:4256" ph="{...}" />
-                <marker date="1621970702705" expanded="true" signature="4308:4357" ph="{...}" />
-                <marker date="1621970702705" expanded="true" signature="4441:4684" ph="{...}" />
+                <marker date="1621977114599" expanded="false" signature="6:120" ph="..." />
+                <marker date="1621977114599" expanded="true" signature="139:1980" ph="{...}" />
+                <marker date="1621977114599" expanded="true" signature="176:1978" ph="{...}" />
+                <marker date="1621977114599" expanded="true" signature="303:638" ph="{...}" />
+                <marker date="1621977114599" expanded="true" signature="752:895" ph="{...}" />
+                <marker date="1621977114599" expanded="true" signature="933:1584" ph="{...}" />
+                <marker date="1621977114599" expanded="true" signature="1625:1972" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -144,42 +89,42 @@
         <entry file="file://$PROJECT_DIR$/CAFGame/Form1.cs">
           <provider editor-type-id="WinFormsEditor" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+            <state relative-caret-position="-1242">
+              <caret line="174" column="9" selection-start-line="174" selection-start-column="9" selection-end-line="174" selection-end-column="9" />
               <folding>
-                <marker date="1621970702697" expanded="false" signature="6:137" ph="..." />
-                <marker date="1621970702697" expanded="true" signature="156:14228" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="203:14226" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="760:1328" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="1373:1631" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="1488:1621" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="1672:2786" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="2826:3351" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="3396:3868" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="3610:3809" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="3731:3795" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="3925:5996" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="4086:5754" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="6063:6716" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="6328:6509" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="6523:6706" ph="/* if (e.KeyCode == Keys.Q) genreChanger.SwitchToPT(); ... */" />
-                <marker date="1621970702697" expanded="true" signature="6781:7017" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="7073:7150" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="7209:9779" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="7344:7994" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="8052:9680" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="8121:8834" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="8410:8816" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="9849:10623" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="9922:10613" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="10672:11453" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="11014:11443" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="11514:11828" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="11883:12379" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="12427:12885" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="12936:13502" ph="{...}" />
-                <marker date="1621970702697" expanded="true" signature="13570:14013" ph="{...}" />
-                <marker date="1621970702697" expanded="false" signature="14076:14220" ph="{...}" />
+                <marker date="1621973779614" expanded="false" signature="6:137" ph="..." />
+                <marker date="1621973779614" expanded="true" signature="156:14244" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="203:14242" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="760:1377" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="1422:1680" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="1537:1670" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="1721:2835" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="2875:3400" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="3445:3917" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="3659:3858" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="3780:3844" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="3974:6045" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="4135:5803" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="6112:6765" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="6377:6558" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="6572:6755" ph="/* if (e.KeyCode == Keys.Q) genreChanger.SwitchToPT(); ... */" />
+                <marker date="1621973779614" expanded="true" signature="6830:7066" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="7122:7199" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="7258:9828" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="7393:8043" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="8101:9729" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="8170:8883" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="8459:8865" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="9898:10639" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="9971:10629" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="10688:11469" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="11030:11459" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="11530:11844" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="11899:12395" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="12443:12901" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="12952:13518" ph="{...}" />
+                <marker date="1621973779614" expanded="true" signature="13586:14029" ph="{...}" />
+                <marker date="1621973779614" expanded="false" signature="14092:14236" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -188,26 +133,27 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CAFGame/EnemySpawner.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-38">
-              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+            <state relative-caret-position="418">
+              <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
               <folding>
-                <marker date="1621969956060" expanded="true" signature="6:70" ph="..." />
-                <marker date="1621969956060" expanded="true" signature="89:6483" ph="{...}" />
-                <marker date="1621969956060" expanded="true" signature="121:6481" ph="{...}" />
-                <marker date="1621969956060" expanded="true" signature="234:675" ph="{...}" />
-                <marker date="1621969956060" expanded="true" signature="760:2674" ph="{...}" />
-                <marker date="1621969956060" expanded="true" signature="2889:2942" ph="{...}" />
-                <marker date="1621969956060" expanded="true" signature="2972:3504" ph="{...}" />
-                <marker date="1621969956060" expanded="true" signature="3086:3187" ph="{...}" />
-                <marker date="1621969956060" expanded="true" signature="3313:3494" ph="{...}" />
-                <marker date="1621969956060" expanded="true" signature="3538:5397" ph="{...}" />
-                <marker date="1621969956060" expanded="true" signature="3952:4379" ph="{...}" />
-                <marker date="1621969956060" expanded="false" signature="4445:4874" ph="{...}" />
-                <marker date="1621969956060" expanded="true" signature="4939:5358" ph="{...}" />
-                <marker date="1621969956060" expanded="true" signature="5440:5663" ph="{...}" />
-                <marker date="1621969956060" expanded="true" signature="5718:5924" ph="{...}" />
-                <marker date="1621969956060" expanded="true" signature="5965:6239" ph="{...}" />
-                <marker date="1621969956060" expanded="true" signature="6295:6475" ph="{...}" />
+                <marker date="1621972934922" expanded="true" signature="6:70" ph="..." />
+                <marker date="1621972934922" expanded="true" signature="89:6853" ph="{...}" />
+                <marker date="1621972934922" expanded="true" signature="121:6851" ph="{...}" />
+                <marker date="1621972934922" expanded="true" signature="568:657" ph="{...}" />
+                <marker date="1621972934922" expanded="true" signature="701:3312" ph="{...}" />
+                <marker date="1621972934922" expanded="true" signature="756:1241" ph="{...}" />
+                <marker date="1621972934922" expanded="true" signature="1287:3301" ph="{...}" />
+                <marker date="1621972934922" expanded="true" signature="3342:3874" ph="{...}" />
+                <marker date="1621972934922" expanded="true" signature="3456:3557" ph="{...}" />
+                <marker date="1621972934922" expanded="true" signature="3683:3864" ph="{...}" />
+                <marker date="1621972934922" expanded="true" signature="3908:5767" ph="{...}" />
+                <marker date="1621972934922" expanded="true" signature="4322:4749" ph="{...}" />
+                <marker date="1621972934922" expanded="true" signature="4815:5244" ph="{...}" />
+                <marker date="1621972934922" expanded="true" signature="5309:5728" ph="{...}" />
+                <marker date="1621972934922" expanded="true" signature="5810:6033" ph="{...}" />
+                <marker date="1621972934922" expanded="true" signature="6088:6294" ph="{...}" />
+                <marker date="1621972934922" expanded="true" signature="6335:6609" ph="{...}" />
+                <marker date="1621972934922" expanded="true" signature="6665:6845" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -227,13 +173,65 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CAFGame/GameState.cs">
+        <entry file="file://$PROJECT_DIR$/CAFGame/SavedBestScore.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CAFGame/Enemy/EnemyPT.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="323">
+              <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
               <folding>
-                <marker date="1620670187650" expanded="true" signature="17:90" ph="{...}" />
-                <marker date="1620670187650" expanded="true" signature="45:88" ph="{...}" />
+                <marker date="1621977192557" expanded="false" signature="6:112" ph="..." />
+                <marker date="1621977192557" expanded="true" signature="131:2801" ph="{...}" />
+                <marker date="1621977192557" expanded="true" signature="166:2799" ph="{...}" />
+                <marker date="1621977192557" expanded="true" signature="473:1095" ph="{...}" />
+                <marker date="1621977192557" expanded="true" signature="882:1001" ph="{...}" />
+                <marker date="1621977192557" expanded="true" signature="1195:1463" ph="{...}" />
+                <marker date="1621977192557" expanded="true" signature="1289:1400" ph="{...}" />
+                <marker date="1621977192557" expanded="true" signature="1504:1976" ph="{...}" />
+                <marker date="1621977192557" expanded="true" signature="2024:2793" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CAFGame/Buttons/Button.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <marker date="1621969953703" expanded="false" signature="6:92" ph="..." />
+                <marker date="1621969953703" expanded="true" signature="111:2224" ph="{...}" />
+                <marker date="1621969953703" expanded="true" signature="150:2222" ph="{...}" />
+                <marker date="1621969953703" expanded="true" signature="569:724" ph="{...}" />
+                <marker date="1621969953703" expanded="true" signature="754:838" ph="{...}" />
+                <marker date="1621969953703" expanded="true" signature="881:1061" ph="{...}" />
+                <marker date="1621969953703" expanded="true" signature="1116:1194" ph="{...}" />
+                <marker date="1621969953703" expanded="true" signature="1233:1361" ph="{...}" />
+                <marker date="1621969953703" expanded="true" signature="1399:1585" ph="{...}" />
+                <marker date="1621969953703" expanded="true" signature="1625:1726" ph="{...}" />
+                <marker date="1621969953703" expanded="true" signature="1764:2216" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CAFGame/Bullet.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-147">
+              <caret line="23" column="72" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
+              <folding>
+                <marker date="1621977192550" expanded="false" signature="6:44" ph="..." />
+                <marker date="1621977192550" expanded="true" signature="63:1624" ph="{...}" />
+                <marker date="1621977192550" expanded="true" signature="102:1622" ph="{...}" />
+                <marker date="1621977192550" expanded="true" signature="427:741" ph="{...}" />
+                <marker date="1621977192550" expanded="true" signature="771:1146" ph="{...}" />
+                <marker date="1621977192550" expanded="true" signature="922:1136" ph="{...}" />
+                <marker date="1621977192550" expanded="true" signature="1175:1616" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -251,6 +249,7 @@
       <find>1920</find>
       <find>Environment.ScreenResolition.Width</find>
       <find>1080</find>
+      <find>Size = (Img.Width + Img.Height) / 4;</find>
     </findStrings>
     <replaceStrings>
       <replace>Environment.GameState</replace>
@@ -293,6 +292,7 @@
     <setting file="file://$PROJECT_DIR$/CAFGame/Buttons/PlayButton.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/56EAE21A-C42F-42FB-BD9A-A5BBB075CFE3/7b/5bc75451/Graphics.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04FF2274-FFE3-42EA-B15A-BE272D0A6B6E/38/e2d4851e/NativeWindow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://E:/Lab6_2021/CAFGame/TestProject1/EnemyPtTests.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CAFGame/Form1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CAFGame/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CAFGame/GenreChanger.cs" root0="FORCE_HIGHLIGHTING" />
@@ -338,21 +338,21 @@
         <option value="$PROJECT_DIR$/CAFGame/Buttons/MuteSoundButton.cs" />
         <option value="$PROJECT_DIR$/CAFGame/Buttons/Button.cs" />
         <option value="$PROJECT_DIR$/CAFGame/GameObject.cs" />
-        <option value="$PROJECT_DIR$/CAFGame/Player/PlayerTDS.cs" />
-        <option value="$PROJECT_DIR$/CAFGame/Player/PlayerS.cs" />
-        <option value="$PROJECT_DIR$/CAFGame/Player/PlayerPT.cs" />
         <option value="$PROJECT_DIR$/CAFGame/Player/Player.cs" />
         <option value="$PROJECT_DIR$/CAFGame/Enemy/Enemy.cs" />
-        <option value="$PROJECT_DIR$/CAFGame/Enemy/EnemyPT.cs" />
-        <option value="$PROJECT_DIR$/CAFGame/Enemy/EnemyS.cs" />
-        <option value="$PROJECT_DIR$/CAFGame/Enemy/EnemyTDS.cs" />
         <option value="$PROJECT_DIR$/CAFGame/Buttons/PlayButton.cs" />
-        <option value="$PROJECT_DIR$/CAFGame/Bullet.cs" />
-        <option value="$PROJECT_DIR$/CAFGame/CannonProjectile.cs" />
         <option value="$PROJECT_DIR$/CAFGame/EnemySpawner.cs" />
         <option value="$PROJECT_DIR$/TestProject1/EnemyPtTests.cs" />
-        <option value="$PROJECT_DIR$/CAFGame/Environment.cs" />
         <option value="$PROJECT_DIR$/CAFGame/Form1.cs" />
+        <option value="$PROJECT_DIR$/CAFGame/Player/PlayerPT.cs" />
+        <option value="$PROJECT_DIR$/CAFGame/Player/PlayerS.cs" />
+        <option value="$PROJECT_DIR$/CAFGame/Player/PlayerTDS.cs" />
+        <option value="$PROJECT_DIR$/CAFGame/Enemy/EnemyTDS.cs" />
+        <option value="$PROJECT_DIR$/CAFGame/Enemy/EnemyS.cs" />
+        <option value="$PROJECT_DIR$/CAFGame/Enemy/EnemyPT.cs" />
+        <option value="$PROJECT_DIR$/CAFGame/Bullet.cs" />
+        <option value="$PROJECT_DIR$/CAFGame/CannonProjectile.cs" />
+        <option value="$PROJECT_DIR$/CAFGame/Environment.cs" />
       </list>
     </option>
   </component>
@@ -367,34 +367,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="CAFGame" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="CAFGame" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="CAFGame" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="CAFGame" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="CAFGame" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Buttons" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="CAFGame" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="TestProject1" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="FileSystemExplorer">
         <subPane>
           <expand>
@@ -425,6 +397,23 @@
         </subPane>
       </pane>
       <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CAFGame" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CAFGame" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CAFGame" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -558,12 +547,15 @@
       <workItem from="1621883939572" duration="59000" />
       <workItem from="1621919688824" duration="627000" />
       <workItem from="1621937237263" duration="2784000" />
-      <workItem from="1621962434159" duration="8193000" />
+      <workItem from="1621962434159" duration="8651000" />
+      <workItem from="1621971198399" duration="2747000" />
+      <workItem from="1621977001097" duration="274000" />
+      <workItem from="1622024251197" duration="1001000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="186174000" />
+    <option name="totallyTimeSpent" value="190654000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -578,12 +570,12 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19925413" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2056473" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27680525" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27680525" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.25382933" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -633,13 +625,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B28F550-0D54-4E01-9E30-DCA09FAB36D7/31/10364790/Label.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11613">
-          <caret line="54" column="11" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/UnityProjects/Overwatch_2/Assets/Scripts/Button3.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -1290,9 +1275,6 @@
           <caret line="213" column="8" selection-start-line="213" selection-start-column="8" selection-end-line="213" selection-end-column="8" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CAFGame/SavedBestScore.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/86/66a139fa/SR.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -3452,7 +3434,6 @@
           <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <marker date="1621937562473" expanded="false" signature="6:44" ph="..." />
-            <marker date="1621937562473" expanded="true" signature="63:458" ph="{...}" />
             <marker date="1621937562473" expanded="true" signature="102:456" ph="{...}" />
             <marker date="1621937562473" expanded="true" signature="159:292" ph="{...}" />
             <marker date="1621937562473" expanded="true" signature="348:450" ph="{...}" />
@@ -3469,62 +3450,11 @@
           <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
           <folding>
             <marker date="1621937495335" expanded="false" signature="6:60" ph="..." />
-            <marker date="1621937495335" expanded="true" signature="84:1531" ph="{...}" />
             <marker date="1621937495335" expanded="true" signature="120:1529" ph="{...}" />
             <marker date="1621937495335" expanded="true" signature="173:417" ph="{...}" />
             <marker date="1621937495335" expanded="true" signature="468:719" ph="{...}" />
             <marker date="1621937495335" expanded="true" signature="779:1121" ph="{...}" />
             <marker date="1621937495335" expanded="true" signature="1178:1523" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CAFGame/Player/PlayerTDS.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="49" />
-          <folding>
-            <marker date="1621969953698" expanded="true" signature="6:126" ph="..." />
-            <marker date="1621969953698" expanded="true" signature="145:2619" ph="{...}" />
-            <marker date="1621969953698" expanded="true" signature="183:2617" ph="{...}" />
-            <marker date="1621969953698" expanded="true" signature="412:759" ph="{...}" />
-            <marker date="1621969953698" expanded="true" signature="873:976" ph="{...}" />
-            <marker date="1621969953698" expanded="true" signature="1017:1377" ph="{...}" />
-            <marker date="1621969953698" expanded="true" signature="1415:1749" ph="{...}" />
-            <marker date="1621969953698" expanded="true" signature="1792:2611" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CAFGame/Player/PlayerS.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
-          <folding>
-            <marker date="1621969953687" expanded="false" signature="6:120" ph="..." />
-            <marker date="1621969953687" expanded="true" signature="139:1974" ph="{...}" />
-            <marker date="1621969953687" expanded="true" signature="176:1972" ph="{...}" />
-            <marker date="1621969953687" expanded="true" signature="303:632" ph="{...}" />
-            <marker date="1621969953687" expanded="true" signature="746:889" ph="{...}" />
-            <marker date="1621969953687" expanded="true" signature="927:1578" ph="{...}" />
-            <marker date="1621969953687" expanded="true" signature="1619:1966" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CAFGame/Player/PlayerPT.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
-          <folding>
-            <marker date="1621969953692" expanded="false" signature="6:126" ph="..." />
-            <marker date="1621969953692" expanded="true" signature="145:1745" ph="{...}" />
-            <marker date="1621969953692" expanded="true" signature="182:1743" ph="{...}" />
-            <marker date="1621969953692" expanded="true" signature="374:698" ph="{...}" />
-            <marker date="1621969953692" expanded="true" signature="812:924" ph="{...}" />
-            <marker date="1621969953692" expanded="true" signature="971:1233" ph="{...}" />
-            <marker date="1621969953692" expanded="true" signature="1281:1426" ph="{...}" />
-            <marker date="1621969953692" expanded="true" signature="1467:1737" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -3535,7 +3465,6 @@
           <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
           <folding>
             <marker date="1621969953683" expanded="false" signature="6:104" ph="..." />
-            <marker date="1621969953683" expanded="true" signature="123:2357" ph="{...}" />
             <marker date="1621969953683" expanded="true" signature="162:2355" ph="{...}" />
             <marker date="1621969953683" expanded="true" signature="369:529" ph="{...}" />
             <marker date="1621969953683" expanded="true" signature="642:745" ph="{...}" />
@@ -3557,7 +3486,6 @@
           <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
           <folding>
             <marker date="1621969953657" expanded="false" signature="6:90" ph="..." />
-            <marker date="1621969953657" expanded="true" signature="109:3975" ph="{...}" />
             <marker date="1621969953657" expanded="true" signature="147:3973" ph="{...}" />
             <marker date="1621969953657" expanded="true" signature="797:1110" ph="{...}" />
             <marker date="1621969953657" expanded="true" signature="1209:1255" ph="{...}" />
@@ -3578,61 +3506,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CAFGame/Enemy/EnemyPT.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
-          <folding>
-            <marker date="1621969953674" expanded="false" signature="6:112" ph="..." />
-            <marker date="1621969953674" expanded="true" signature="131:2686" ph="{...}" />
-            <marker date="1621969953674" expanded="true" signature="166:2684" ph="{...}" />
-            <marker date="1621969953674" expanded="true" signature="473:1089" ph="{...}" />
-            <marker date="1621969953674" expanded="true" signature="931:1050" ph="{...}" />
-            <marker date="1621969953674" expanded="true" signature="1189:1457" ph="{...}" />
-            <marker date="1621969953674" expanded="true" signature="1283:1394" ph="{...}" />
-            <marker date="1621969953674" expanded="true" signature="1498:1970" ph="{...}" />
-            <marker date="1621969953674" expanded="true" signature="2018:2678" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CAFGame/Enemy/EnemyS.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
-          <folding>
-            <marker date="1621969953670" expanded="false" signature="6:78" ph="..." />
-            <marker date="1621969953670" expanded="true" signature="97:878" ph="{...}" />
-            <marker date="1621969953670" expanded="true" signature="131:876" ph="{...}" />
-            <marker date="1621969953670" expanded="true" signature="289:574" ph="{...}" />
-            <marker date="1621969953670" expanded="true" signature="674:779" ph="{...}" />
-            <marker date="1621969953670" expanded="true" signature="820:870" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CAFGame/Enemy/EnemyTDS.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
-          <folding>
-            <marker date="1621969953678" expanded="true" signature="6:98" ph="..." />
-            <marker date="1621969953678" expanded="true" signature="117:1280" ph="{...}" />
-            <marker date="1621969953678" expanded="true" signature="153:1278" ph="{...}" />
-            <marker date="1621969953678" expanded="true" signature="416:782" ph="{...}" />
-            <marker date="1621969953678" expanded="true" signature="882:1042" ph="{...}" />
-            <marker date="1621969953678" expanded="true" signature="1083:1272" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CAFGame/Buttons/MuteSoundButton.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
           <folding>
             <marker date="1621969953708" expanded="false" signature="6:44" ph="..." />
-            <marker date="1621969953708" expanded="true" signature="63:929" ph="{...}" />
             <marker date="1621969953708" expanded="true" signature="107:927" ph="{...}" />
             <marker date="1621969953708" expanded="true" signature="360:616" ph="{...}" />
             <marker date="1621969953708" expanded="true" signature="672:921" ph="{...}" />
@@ -3646,46 +3525,9 @@
           <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
           <folding>
             <marker date="1621967336349" expanded="false" signature="6:44" ph="..." />
-            <marker date="1621967336349" expanded="true" signature="63:448" ph="{...}" />
             <marker date="1621967336349" expanded="true" signature="102:446" ph="{...}" />
             <marker date="1621967336349" expanded="true" signature="159:292" ph="{...}" />
             <marker date="1621967336349" expanded="true" signature="348:440" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CAFGame/Bullet.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
-          <folding>
-            <marker date="1621969953713" expanded="false" signature="6:44" ph="..." />
-            <marker date="1621969953713" expanded="true" signature="63:1618" ph="{...}" />
-            <marker date="1621969953713" expanded="true" signature="102:1616" ph="{...}" />
-            <marker date="1621969953713" expanded="true" signature="427:735" ph="{...}" />
-            <marker date="1621969953713" expanded="true" signature="765:1140" ph="{...}" />
-            <marker date="1621969953713" expanded="true" signature="916:1130" ph="{...}" />
-            <marker date="1621969953713" expanded="true" signature="1169:1610" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CAFGame/Buttons/Button.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-290">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <marker date="1621969953703" expanded="false" signature="6:92" ph="..." />
-            <marker date="1621969953703" expanded="true" signature="111:2224" ph="{...}" />
-            <marker date="1621969953703" expanded="true" signature="150:2222" ph="{...}" />
-            <marker date="1621969953703" expanded="true" signature="569:724" ph="{...}" />
-            <marker date="1621969953703" expanded="true" signature="754:838" ph="{...}" />
-            <marker date="1621969953703" expanded="true" signature="881:1061" ph="{...}" />
-            <marker date="1621969953703" expanded="true" signature="1116:1194" ph="{...}" />
-            <marker date="1621969953703" expanded="true" signature="1233:1361" ph="{...}" />
-            <marker date="1621969953703" expanded="true" signature="1399:1585" ph="{...}" />
-            <marker date="1621969953703" expanded="true" signature="1625:1726" ph="{...}" />
-            <marker date="1621969953703" expanded="true" signature="1764:2216" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -3695,101 +3537,7 @@
         <state relative-caret-position="114">
           <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
           <folding>
-            <marker date="1621613292549" expanded="true" signature="17:114" ph="{...}" />
             <marker date="1621613292549" expanded="true" signature="52:112" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CAFGame/CurrentGenre.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <marker date="1620670065082" expanded="true" signature="17:97" ph="{...}" />
-            <marker date="1620670065082" expanded="true" signature="48:95" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CAFGame/CannonProjectile.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198">
-          <caret line="36" column="50" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
-          <folding>
-            <marker date="1621969956115" expanded="false" signature="6:78" ph="..." />
-            <marker date="1621969956115" expanded="true" signature="97:2714" ph="{...}" />
-            <marker date="1621969956115" expanded="true" signature="146:2712" ph="{...}" />
-            <marker date="1621969956115" expanded="true" signature="480:948" ph="{...}" />
-            <marker date="1621969956115" expanded="true" signature="1045:1526" ph="{...}" />
-            <marker date="1621969956115" expanded="true" signature="1276:1516" ph="{...}" />
-            <marker date="1621969956115" expanded="true" signature="1555:1603" ph="{...}" />
-            <marker date="1621969956115" expanded="true" signature="1641:1866" ph="{...}" />
-            <marker date="1621969956115" expanded="true" signature="1974:2288" ph="{...}" />
-            <marker date="1621969956115" expanded="true" signature="2356:2496" ph="{...}" />
-            <marker date="1621969956115" expanded="true" signature="2565:2706" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CAFGame/EnemySpawner.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-          <folding>
-            <marker date="1621969956060" expanded="true" signature="6:70" ph="..." />
-            <marker date="1621969956060" expanded="true" signature="89:6483" ph="{...}" />
-            <marker date="1621969956060" expanded="true" signature="121:6481" ph="{...}" />
-            <marker date="1621969956060" expanded="true" signature="234:675" ph="{...}" />
-            <marker date="1621969956060" expanded="true" signature="760:2674" ph="{...}" />
-            <marker date="1621969956060" expanded="true" signature="2889:2942" ph="{...}" />
-            <marker date="1621969956060" expanded="true" signature="2972:3504" ph="{...}" />
-            <marker date="1621969956060" expanded="true" signature="3086:3187" ph="{...}" />
-            <marker date="1621969956060" expanded="true" signature="3313:3494" ph="{...}" />
-            <marker date="1621969956060" expanded="true" signature="3538:5397" ph="{...}" />
-            <marker date="1621969956060" expanded="true" signature="3952:4379" ph="{...}" />
-            <marker date="1621969956060" expanded="false" signature="4445:4874" ph="{...}" />
-            <marker date="1621969956060" expanded="true" signature="4939:5358" ph="{...}" />
-            <marker date="1621969956060" expanded="true" signature="5440:5663" ph="{...}" />
-            <marker date="1621969956060" expanded="true" signature="5718:5924" ph="{...}" />
-            <marker date="1621969956060" expanded="true" signature="5965:6239" ph="{...}" />
-            <marker date="1621969956060" expanded="true" signature="6295:6475" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestProject1/EnemyPtTests.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-          <folding>
-            <marker date="1621969956075" expanded="true" signature="6:75" ph="..." />
-            <marker date="1621969956075" expanded="true" signature="98:1214" ph="{...}" />
-            <marker date="1621969956075" expanded="true" signature="130:1212" ph="{...}" />
-            <marker date="1621969956075" expanded="true" signature="185:513" ph="{...}" />
-            <marker date="1621969956075" expanded="true" signature="563:890" ph="{...}" />
-            <marker date="1621969956075" expanded="true" signature="946:1206" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CAFGame/GenreChanger.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <marker date="1621938368498" expanded="true" signature="6:86" ph="..." />
-            <marker date="1621938368498" expanded="true" signature="105:3723" ph="{...}" />
-            <marker date="1621938368498" expanded="true" signature="137:3721" ph="{...}" />
-            <marker date="1621938368498" expanded="true" signature="278:533" ph="{...}" />
-            <marker date="1621938368498" expanded="true" signature="410:523" ph="{...}" />
-            <marker date="1621938368498" expanded="true" signature="569:861" ph="{...}" />
-            <marker date="1621938368498" expanded="false" signature="896:1784" ph="{...}" />
-            <marker date="1621938368498" expanded="true" signature="1244:1774" ph="{...}" />
-            <marker date="1621938368498" expanded="false" signature="1818:2710" ph="{...}" />
-            <marker date="1621938368498" expanded="true" signature="2164:2700" ph="{...}" />
-            <marker date="1621938368498" expanded="false" signature="2743:3715" ph="{...}" />
-            <marker date="1621938368498" expanded="true" signature="3177:3705" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -3808,63 +3556,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CAFGame/GameState.cs">
+    <entry file="file://E:/Lab6_2021/CAFGame/TestProject1/EnemyPtTests.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="-100">
           <folding>
-            <marker date="1620670187650" expanded="true" signature="17:90" ph="{...}" />
-            <marker date="1620670187650" expanded="true" signature="45:88" ph="{...}" />
+            <element signature="e#0#74#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CAFGame/Form1.cs">
-      <provider editor-type-id="WinFormsEditor" />
+    <entry file="file://$PROJECT_DIR$/TestProject1/EnemyPtTests.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        <state relative-caret-position="779">
+          <caret line="45" column="48" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
           <folding>
-            <marker date="1621970702697" expanded="false" signature="6:137" ph="..." />
-            <marker date="1621970702697" expanded="true" signature="156:14228" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="203:14226" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="760:1328" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="1373:1631" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="1488:1621" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="1672:2786" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="2826:3351" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="3396:3868" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="3610:3809" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="3731:3795" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="3925:5996" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="4086:5754" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="6063:6716" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="6328:6509" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="6523:6706" ph="/* if (e.KeyCode == Keys.Q) genreChanger.SwitchToPT(); ... */" />
-            <marker date="1621970702697" expanded="true" signature="6781:7017" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="7073:7150" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="7209:9779" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="7344:7994" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="8052:9680" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="8121:8834" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="8410:8816" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="9849:10623" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="9922:10613" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="10672:11453" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="11014:11443" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="11514:11828" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="11883:12379" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="12427:12885" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="12936:13502" ph="{...}" />
-            <marker date="1621970702697" expanded="true" signature="13570:14013" ph="{...}" />
-            <marker date="1621970702697" expanded="false" signature="14076:14220" ph="{...}" />
+            <marker date="1621973305971" expanded="true" signature="171:1689" ph="{...}" />
+            <marker date="1621973305971" expanded="true" signature="226:554" ph="{...}" />
+            <marker date="1621973305971" expanded="true" signature="604:931" ph="{...}" />
+            <marker date="1621973305971" expanded="true" signature="987:1247" ph="{...}" />
+            <marker date="1621973305971" expanded="true" signature="1310:1683" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CAFGame/GenreChanger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <marker date="1621938368498" expanded="true" signature="6:86" ph="..." />
+            <marker date="1621938368498" expanded="true" signature="105:3723" ph="{...}" />
+            <marker date="1621938368498" expanded="true" signature="137:3721" ph="{...}" />
+            <marker date="1621938368498" expanded="true" signature="278:533" ph="{...}" />
+            <marker date="1621938368498" expanded="true" signature="410:523" ph="{...}" />
+            <marker date="1621938368498" expanded="true" signature="569:861" ph="{...}" />
+            <marker date="1621938368498" expanded="true" signature="896:1784" ph="{...}" />
+            <marker date="1621938368498" expanded="true" signature="1244:1774" ph="{...}" />
+            <marker date="1621938368498" expanded="false" signature="1818:2710" ph="{...}" />
+            <marker date="1621938368498" expanded="true" signature="2164:2700" ph="{...}" />
+            <marker date="1621938368498" expanded="false" signature="2743:3715" ph="{...}" />
+            <marker date="1621938368498" expanded="true" signature="3177:3705" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CAFGame/GameObject.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
+        <state relative-caret-position="266">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <marker date="1621969956125" expanded="true" signature="6:44" ph="..." />
@@ -3877,21 +3615,270 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CAFGame/GameState.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <marker date="1620670187650" expanded="true" signature="17:90" ph="{...}" />
+            <marker date="1620670187650" expanded="true" signature="45:88" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CAFGame/Player/PlayerPT.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="54" />
+          <folding>
+            <marker date="1621977054638" expanded="false" signature="6:126" ph="..." />
+            <marker date="1621977054638" expanded="true" signature="145:1751" ph="{...}" />
+            <marker date="1621977054638" expanded="true" signature="182:1749" ph="{...}" />
+            <marker date="1621977054638" expanded="true" signature="374:704" ph="{...}" />
+            <marker date="1621977054638" expanded="true" signature="818:930" ph="{...}" />
+            <marker date="1621977054638" expanded="true" signature="977:1239" ph="{...}" />
+            <marker date="1621977054638" expanded="true" signature="1287:1432" ph="{...}" />
+            <marker date="1621977054638" expanded="true" signature="1473:1743" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CAFGame/Player/PlayerTDS.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="54" />
+          <folding>
+            <marker date="1621977114594" expanded="true" signature="6:126" ph="..." />
+            <marker date="1621977114594" expanded="true" signature="145:2625" ph="{...}" />
+            <marker date="1621977114594" expanded="true" signature="183:2623" ph="{...}" />
+            <marker date="1621977114594" expanded="true" signature="412:765" ph="{...}" />
+            <marker date="1621977114594" expanded="true" signature="879:982" ph="{...}" />
+            <marker date="1621977114594" expanded="true" signature="1023:1383" ph="{...}" />
+            <marker date="1621977114594" expanded="true" signature="1421:1755" ph="{...}" />
+            <marker date="1621977114594" expanded="true" signature="1798:2617" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CAFGame/Enemy/EnemyTDS.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="62" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+          <folding>
+            <marker date="1621977192539" expanded="true" signature="6:98" ph="..." />
+            <marker date="1621977192539" expanded="true" signature="117:1286" ph="{...}" />
+            <marker date="1621977192539" expanded="true" signature="153:1284" ph="{...}" />
+            <marker date="1621977192539" expanded="true" signature="416:788" ph="{...}" />
+            <marker date="1621977192539" expanded="true" signature="888:1048" ph="{...}" />
+            <marker date="1621977192539" expanded="true" signature="1089:1278" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CAFGame/Enemy/EnemyS.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+          <folding>
+            <marker date="1621977192544" expanded="false" signature="6:78" ph="..." />
+            <marker date="1621977192544" expanded="true" signature="97:884" ph="{...}" />
+            <marker date="1621977192544" expanded="true" signature="131:882" ph="{...}" />
+            <marker date="1621977192544" expanded="true" signature="289:580" ph="{...}" />
+            <marker date="1621977192544" expanded="true" signature="680:785" ph="{...}" />
+            <marker date="1621977192544" expanded="true" signature="826:876" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CAFGame/Player/PlayerS.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="54" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+          <folding>
+            <marker date="1621977114599" expanded="false" signature="6:120" ph="..." />
+            <marker date="1621977114599" expanded="true" signature="139:1980" ph="{...}" />
+            <marker date="1621977114599" expanded="true" signature="176:1978" ph="{...}" />
+            <marker date="1621977114599" expanded="true" signature="303:638" ph="{...}" />
+            <marker date="1621977114599" expanded="true" signature="752:895" ph="{...}" />
+            <marker date="1621977114599" expanded="true" signature="933:1584" ph="{...}" />
+            <marker date="1621977114599" expanded="true" signature="1625:1972" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CAFGame/Enemy/EnemyPT.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
+          <folding>
+            <marker date="1621977192557" expanded="false" signature="6:112" ph="..." />
+            <marker date="1621977192557" expanded="true" signature="131:2801" ph="{...}" />
+            <marker date="1621977192557" expanded="true" signature="166:2799" ph="{...}" />
+            <marker date="1621977192557" expanded="true" signature="473:1095" ph="{...}" />
+            <marker date="1621977192557" expanded="true" signature="882:1001" ph="{...}" />
+            <marker date="1621977192557" expanded="true" signature="1195:1463" ph="{...}" />
+            <marker date="1621977192557" expanded="true" signature="1289:1400" ph="{...}" />
+            <marker date="1621977192557" expanded="true" signature="1504:1976" ph="{...}" />
+            <marker date="1621977192557" expanded="true" signature="2024:2793" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CAFGame/Buttons/Button.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <marker date="1621969953703" expanded="false" signature="6:92" ph="..." />
+            <marker date="1621969953703" expanded="true" signature="111:2224" ph="{...}" />
+            <marker date="1621969953703" expanded="true" signature="150:2222" ph="{...}" />
+            <marker date="1621969953703" expanded="true" signature="569:724" ph="{...}" />
+            <marker date="1621969953703" expanded="true" signature="754:838" ph="{...}" />
+            <marker date="1621969953703" expanded="true" signature="881:1061" ph="{...}" />
+            <marker date="1621969953703" expanded="true" signature="1116:1194" ph="{...}" />
+            <marker date="1621969953703" expanded="true" signature="1233:1361" ph="{...}" />
+            <marker date="1621969953703" expanded="true" signature="1399:1585" ph="{...}" />
+            <marker date="1621969953703" expanded="true" signature="1625:1726" ph="{...}" />
+            <marker date="1621969953703" expanded="true" signature="1764:2216" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CAFGame/CurrentGenre.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1620670065082" expanded="true" signature="17:97" ph="{...}" />
+            <marker date="1620670065082" expanded="true" signature="48:95" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CAFGame/SavedBestScore.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CAFGame/CannonProjectile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-622">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <marker date="1621977192563" expanded="false" signature="6:78" ph="..." />
+            <marker date="1621977192563" expanded="true" signature="97:2720" ph="{...}" />
+            <marker date="1621977192563" expanded="true" signature="146:2718" ph="{...}" />
+            <marker date="1621977192563" expanded="true" signature="480:954" ph="{...}" />
+            <marker date="1621977192563" expanded="true" signature="1051:1532" ph="{...}" />
+            <marker date="1621977192563" expanded="true" signature="1282:1522" ph="{...}" />
+            <marker date="1621977192563" expanded="true" signature="1561:1609" ph="{...}" />
+            <marker date="1621977192563" expanded="true" signature="1647:1872" ph="{...}" />
+            <marker date="1621977192563" expanded="true" signature="1980:2294" ph="{...}" />
+            <marker date="1621977192563" expanded="true" signature="2362:2502" ph="{...}" />
+            <marker date="1621977192563" expanded="true" signature="2571:2712" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CAFGame/Bullet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-147">
+          <caret line="23" column="72" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
+          <folding>
+            <marker date="1621977192550" expanded="false" signature="6:44" ph="..." />
+            <marker date="1621977192550" expanded="true" signature="63:1624" ph="{...}" />
+            <marker date="1621977192550" expanded="true" signature="102:1622" ph="{...}" />
+            <marker date="1621977192550" expanded="true" signature="427:741" ph="{...}" />
+            <marker date="1621977192550" expanded="true" signature="771:1146" ph="{...}" />
+            <marker date="1621977192550" expanded="true" signature="922:1136" ph="{...}" />
+            <marker date="1621977192550" expanded="true" signature="1175:1616" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CAFGame/Form1.cs">
+      <provider editor-type-id="WinFormsEditor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1242">
+          <caret line="174" column="9" selection-start-line="174" selection-start-column="9" selection-end-line="174" selection-end-column="9" />
+          <folding>
+            <marker date="1621973779614" expanded="false" signature="6:137" ph="..." />
+            <marker date="1621973779614" expanded="true" signature="156:14244" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="203:14242" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="760:1377" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="1422:1680" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="1537:1670" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="1721:2835" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="2875:3400" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="3445:3917" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="3659:3858" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="3780:3844" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="3974:6045" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="4135:5803" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="6112:6765" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="6377:6558" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="6572:6755" ph="/* if (e.KeyCode == Keys.Q) genreChanger.SwitchToPT(); ... */" />
+            <marker date="1621973779614" expanded="true" signature="6830:7066" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="7122:7199" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="7258:9828" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="7393:8043" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="8101:9729" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="8170:8883" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="8459:8865" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="9898:10639" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="9971:10629" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="10688:11469" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="11030:11459" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="11530:11844" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="11899:12395" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="12443:12901" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="12952:13518" ph="{...}" />
+            <marker date="1621973779614" expanded="true" signature="13586:14029" ph="{...}" />
+            <marker date="1621973779614" expanded="false" signature="14092:14236" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CAFGame/EnemySpawner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+          <folding>
+            <marker date="1621972934922" expanded="true" signature="6:70" ph="..." />
+            <marker date="1621972934922" expanded="true" signature="89:6853" ph="{...}" />
+            <marker date="1621972934922" expanded="true" signature="121:6851" ph="{...}" />
+            <marker date="1621972934922" expanded="true" signature="568:657" ph="{...}" />
+            <marker date="1621972934922" expanded="true" signature="701:3312" ph="{...}" />
+            <marker date="1621972934922" expanded="true" signature="756:1241" ph="{...}" />
+            <marker date="1621972934922" expanded="true" signature="1287:3301" ph="{...}" />
+            <marker date="1621972934922" expanded="true" signature="3342:3874" ph="{...}" />
+            <marker date="1621972934922" expanded="true" signature="3456:3557" ph="{...}" />
+            <marker date="1621972934922" expanded="true" signature="3683:3864" ph="{...}" />
+            <marker date="1621972934922" expanded="true" signature="3908:5767" ph="{...}" />
+            <marker date="1621972934922" expanded="true" signature="4322:4749" ph="{...}" />
+            <marker date="1621972934922" expanded="true" signature="4815:5244" ph="{...}" />
+            <marker date="1621972934922" expanded="true" signature="5309:5728" ph="{...}" />
+            <marker date="1621972934922" expanded="true" signature="5810:6033" ph="{...}" />
+            <marker date="1621972934922" expanded="true" signature="6088:6294" ph="{...}" />
+            <marker date="1621972934922" expanded="true" signature="6335:6609" ph="{...}" />
+            <marker date="1621972934922" expanded="true" signature="6665:6845" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CAFGame/Environment.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="62" column="78" selection-start-line="62" selection-start-column="78" selection-end-line="62" selection-end-column="78" />
+        <state relative-caret-position="290">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
-            <marker date="1621970702705" expanded="true" signature="6:92" ph="..." />
-            <marker date="1621970702705" expanded="true" signature="111:4692" ph="{...}" />
-            <marker date="1621970702705" expanded="true" signature="149:4690" ph="{...}" />
-            <marker date="1621970702705" expanded="true" signature="2195:2759" ph="{...}" />
-            <marker date="1621970702705" expanded="true" signature="2811:3787" ph="{...}" />
-            <marker date="1621970702705" expanded="true" signature="3825:3923" ph="{...}" />
-            <marker date="1621970702705" expanded="true" signature="3975:4151" ph="{...}" />
-            <marker date="1621970702705" expanded="true" signature="4203:4256" ph="{...}" />
-            <marker date="1621970702705" expanded="true" signature="4308:4357" ph="{...}" />
-            <marker date="1621970702705" expanded="true" signature="4441:4684" ph="{...}" />
+            <marker date="1622025260850" expanded="true" signature="6:92" ph="..." />
+            <marker date="1622025260850" expanded="true" signature="111:4692" ph="{...}" />
+            <marker date="1622025260850" expanded="true" signature="149:4690" ph="{...}" />
+            <marker date="1622025260850" expanded="true" signature="2195:2759" ph="{...}" />
+            <marker date="1622025260850" expanded="true" signature="2811:3787" ph="{...}" />
+            <marker date="1622025260850" expanded="true" signature="3825:3923" ph="{...}" />
+            <marker date="1622025260850" expanded="true" signature="3975:4151" ph="{...}" />
+            <marker date="1622025260850" expanded="true" signature="4203:4256" ph="{...}" />
+            <marker date="1622025260850" expanded="true" signature="4308:4357" ph="{...}" />
+            <marker date="1622025260850" expanded="true" signature="4441:4684" ph="{...}" />
           </folding>
         </state>
       </provider>

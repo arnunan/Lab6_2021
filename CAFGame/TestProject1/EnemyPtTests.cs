@@ -2,6 +2,7 @@ using System;
 using System.Numerics;
 using CAFGame;
 using NUnit.Framework;
+using Environment = CAFGame.Environment;
 
 namespace TestProject1
 {
@@ -34,6 +35,16 @@ namespace TestProject1
             var enemy = new EnemyPT(10000, 0, player, 3, new Vector2(0, 0), false);
             var angle = enemy.CalculateAngle(CannonProjectile.StartSpeed);
             Assert.IsNaN(angle);
+        }
+        
+        [Test]
+        public void TargetUneachable()
+        {
+            var player = new PlayerPT(666 * Environment.ScreenResolutionMultiplier.X, 0, 3);
+            var enemy = new EnemyPT(0, 0, player, 3, new Vector2(0, 0), false);
+            var angle = enemy.CalculateAngle(CannonProjectile.StartSpeed);
+            var expected = 0.80776061375556829d;
+            Assert.AreEqual(expected, Math.Abs(angle));
         }
     }
 }

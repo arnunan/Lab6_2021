@@ -22,7 +22,6 @@ namespace CAFGame
             Speed = 1;
             DirToShoot = target.Pos - Pos;
             Img = new Bitmap("Assets\\Sprites\\EnemyPT.png");
-            Size = (Img.Width + Img.Height) / 4;
             shootSound = new SoundPlayer("Assets\\Sounds\\Laser_Shoot14.wav");
             this.justSpawned = justSpawned;
             if (justSpawned)
@@ -32,6 +31,7 @@ namespace CAFGame
             }
 
             ResizeSprite();
+            Size = (Sprite.Width + Sprite.Height) / 4;
         }
 
         public override void Update(List<Bullet> bulletsPlayer, List<CannonProjectile> projPlayer)
@@ -60,6 +60,7 @@ namespace CAFGame
 
         public double CalculateAngle(double v)
         {
+            v *= (Environment.ScreenResolutionMultiplier.X + Environment.ScreenResolutionMultiplier.Y) / 2f;
             var gravity = Environment.Gravity * Environment.ScreenResolutionMultiplier.Y /
                           (1000 / (Environment.DeltaTime.Milliseconds == 0 ? 15f : Environment.DeltaTime.Milliseconds));
             var root = Math.Sqrt(v * v * v * v - gravity *
