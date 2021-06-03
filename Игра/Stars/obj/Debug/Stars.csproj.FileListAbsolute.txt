@@ -1,0 +1,98 @@
+C:\Users\dobry\source\repos\Stars\Stars\bin\Debug\Stars.exe.config
+C:\Users\dobry\source\repos\Stars\Stars\bin\Debug\Stars.exe
+C:\Users\dobry\source\repos\Stars\Stars\bin\Debug\Stars.pdb
+C:\Users\dobry\source\repos\Stars\Stars\obj\Debug\Stars.csprojAssemblyReference.cache
+C:\Users\dobry\source\repos\Stars\Stars\obj\Debug\Stars.Properties.Resources.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Debug\Stars.csproj.GenerateResource.cache
+C:\Users\dobry\source\repos\Stars\Stars\obj\Debug\Stars.csproj.CoreCompileInputs.cache
+C:\Users\dobry\source\repos\Stars\Stars\obj\Debug\Stars.exe
+C:\Users\dobry\source\repos\Stars\Stars\obj\Debug\Stars.pdb
+C:\Users\dobry\source\repos\Stars\Stars\obj\Debug\Stars.Level1.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Debug\Stars.Settings.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Debug\Stars.Died.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Debug\Stars.winning.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Debug\Stars.Level2.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Debug\Stars.Level3.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Debug\Stars.Level4.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Debug\Stars.FinalComic.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Debug\Interop.WMPRichPreviewLauncher.dll
+C:\Users\dobry\source\repos\Stars\Stars\obj\Debug\Stars.csproj.ResolveComReference.cache
+C:\Users\dobry\source\repos\Stars\Stars\obj\Debug\Stars.ExitFromMenu.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Debug\Stars.SettingsFromMenu.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Debug\Stars.BlackBackground.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Debug\Stars.StarterComic.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Debug\Game.Form1.resources
+C:\Users\dobry\source\repos\Stars\Stars\bin\Debug\Pics\picLevel1.jpg
+C:\Users\dobry\source\repos\Stars\Stars\bin\Debug\Pics\picLevel2.jpg
+C:\Users\dobry\source\repos\Stars\Stars\bin\Debug\Pics\picLevel3.jpg
+C:\Users\dobry\source\repos\Stars\Stars\bin\Debug\Pics\picLevel4.jpg
+C:\Users\dobry\source\repos\Stars\Stars\bin\Debug\Pics\говорит.jpg
+C:\Users\dobry\source\repos\Stars\Stars\bin\Debug\Pics\song-for-game.wav
+C:\Users\dobry\source\repos\Stars\Stars\bin\Debug\Pics\playerStraight.png
+C:\Users\dobry\source\repos\Stars\Stars\bin\Debug\Pics\ToLeft.gif
+C:\Users\dobry\source\repos\Stars\Stars\bin\Debug\Pics\ToRight.gif
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\bin\Debug\Pics\picLevel1.jpg
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\bin\Debug\Pics\picLevel2.jpg
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\bin\Debug\Pics\picLevel3.jpg
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\bin\Debug\Pics\picLevel4.jpg
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\bin\Debug\Pics\playerStraight.png
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\bin\Debug\Pics\song-for-game.wav
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\bin\Debug\Pics\ToLeft.gif
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\bin\Debug\Pics\ToRight.gif
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\bin\Debug\Pics\говорит.jpg
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\bin\Debug\Stars.exe.config
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\bin\Debug\Stars.exe
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\bin\Debug\Stars.pdb
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Debug\Stars.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Debug\Interop.WMPRichPreviewLauncher.dll
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Debug\Stars.csproj.ResolveComReference.cache
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Debug\Stars.Died.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Debug\Stars.FinalComic.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Debug\Game.Form1.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Debug\Stars.ExitFromMenu.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Debug\Stars.SettingsFromMenu.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Debug\Stars.BlackBackground.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Debug\Stars.StarterComic.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Debug\Stars.Level1.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Debug\Stars.Level2.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Debug\Stars.Level3.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Debug\Stars.Level4.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Debug\Stars.Properties.Resources.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Debug\Stars.Settings.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Debug\Stars.Winning.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Debug\Stars.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Debug\Stars.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Debug\Stars.exe
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Debug\Stars.pdb
+C:\Users\1\Desktop\Game\Stars\Stars\bin\Debug\Pics\picLevel1.jpg
+C:\Users\1\Desktop\Game\Stars\Stars\bin\Debug\Pics\picLevel2.jpg
+C:\Users\1\Desktop\Game\Stars\Stars\bin\Debug\Pics\picLevel3.jpg
+C:\Users\1\Desktop\Game\Stars\Stars\bin\Debug\Pics\picLevel4.jpg
+C:\Users\1\Desktop\Game\Stars\Stars\bin\Debug\Pics\playerStraight.png
+C:\Users\1\Desktop\Game\Stars\Stars\bin\Debug\Stars.exe.config
+C:\Users\1\Desktop\Game\Stars\Stars\bin\Debug\Stars.exe
+C:\Users\1\Desktop\Game\Stars\Stars\bin\Debug\Stars.pdb
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Debug\Stars.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Debug\Interop.WMPRichPreviewLauncher.dll
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Debug\Stars.csproj.ResolveComReference.cache
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Debug\Stars.Died.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Debug\Stars.FinalComic.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Debug\Game.Form1.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Debug\Stars.ExitFromMenu.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Debug\Stars.SettingsFromMenu.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Debug\Stars.BlackBackground.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Debug\Stars.StarterComic.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Debug\Stars.Level1.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Debug\Stars.Level2.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Debug\Stars.Level3.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Debug\Stars.Level4.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Debug\Stars.Properties.Resources.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Debug\Stars.Settings.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Debug\Stars.Winning.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Debug\Stars.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Debug\Stars.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Debug\Stars.exe
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Debug\Stars.pdb
+C:\Users\1\Desktop\Game\Stars\Stars\bin\Debug\Pics\Left.png
+C:\Users\1\Desktop\Game\Stars\Stars\bin\Debug\Pics\Right.png
+C:\Users\1\Desktop\Game\Stars\Stars\bin\Debug\Pics\SongForGame.wav

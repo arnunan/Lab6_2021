@@ -1,0 +1,98 @@
+C:\Users\dobry\source\repos\Stars\Stars\bin\Release\Stars.exe.config
+C:\Users\dobry\source\repos\Stars\Stars\bin\Release\Stars.exe
+C:\Users\dobry\source\repos\Stars\Stars\bin\Release\Stars.pdb
+C:\Users\dobry\source\repos\Stars\Stars\obj\Release\Stars.csprojAssemblyReference.cache
+C:\Users\dobry\source\repos\Stars\Stars\obj\Release\Interop.WMPRichPreviewLauncher.dll
+C:\Users\dobry\source\repos\Stars\Stars\obj\Release\Stars.csproj.ResolveComReference.cache
+C:\Users\dobry\source\repos\Stars\Stars\obj\Release\Stars.Died.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Release\Stars.FinalComic.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Release\Game.Form1.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Release\Stars.ExitFromMenu.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Release\Stars.SettingsFromMenu.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Release\Stars.BlackBackground.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Release\Stars.StarterComic.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Release\Stars.Level1.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Release\Stars.Level2.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Release\Stars.Level3.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Release\Stars.Level4.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Release\Stars.Properties.Resources.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Release\Stars.Settings.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Release\Stars.Winning.resources
+C:\Users\dobry\source\repos\Stars\Stars\obj\Release\Stars.csproj.GenerateResource.cache
+C:\Users\dobry\source\repos\Stars\Stars\obj\Release\Stars.csproj.CoreCompileInputs.cache
+C:\Users\dobry\source\repos\Stars\Stars\obj\Release\Stars.exe
+C:\Users\dobry\source\repos\Stars\Stars\obj\Release\Stars.pdb
+C:\Users\dobry\source\repos\Stars\Stars\bin\Release\Pics\picLevel1.jpg
+C:\Users\dobry\source\repos\Stars\Stars\bin\Release\Pics\picLevel2.jpg
+C:\Users\dobry\source\repos\Stars\Stars\bin\Release\Pics\picLevel3.jpg
+C:\Users\dobry\source\repos\Stars\Stars\bin\Release\Pics\picLevel4.jpg
+C:\Users\dobry\source\repos\Stars\Stars\bin\Release\Pics\song-for-game.wav
+C:\Users\dobry\source\repos\Stars\Stars\bin\Release\Pics\говорит.jpg
+C:\Users\dobry\source\repos\Stars\Stars\bin\Release\Pics\playerStraight.png
+C:\Users\dobry\source\repos\Stars\Stars\bin\Release\Pics\ToLeft.gif
+C:\Users\dobry\source\repos\Stars\Stars\bin\Release\Pics\ToRight.gif
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\bin\Release\Pics\picLevel1.jpg
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\bin\Release\Pics\picLevel2.jpg
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\bin\Release\Pics\picLevel3.jpg
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\bin\Release\Pics\picLevel4.jpg
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\bin\Release\Pics\playerStraight.png
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\bin\Release\Pics\song-for-game.wav
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\bin\Release\Pics\ToLeft.gif
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\bin\Release\Pics\ToRight.gif
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\bin\Release\Pics\говорит.jpg
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\bin\Release\Stars.exe.config
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\bin\Release\Stars.exe
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\bin\Release\Stars.pdb
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Release\Interop.WMPRichPreviewLauncher.dll
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Release\Stars.csproj.ResolveComReference.cache
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Release\Stars.Died.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Release\Stars.FinalComic.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Release\Game.Form1.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Release\Stars.ExitFromMenu.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Release\Stars.SettingsFromMenu.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Release\Stars.BlackBackground.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Release\Stars.StarterComic.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Release\Stars.Level1.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Release\Stars.Level2.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Release\Stars.Level3.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Release\Stars.Level4.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Release\Stars.Properties.Resources.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Release\Stars.Settings.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Release\Stars.Winning.resources
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Release\Stars.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Release\Stars.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Release\Stars.exe
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Release\Stars.pdb
+C:\Users\1\Desktop\Game Stars (1)\Stars\Stars\obj\Release\Stars.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Game\Stars\Stars\bin\Release\Pics\Left.png
+C:\Users\1\Desktop\Game\Stars\Stars\bin\Release\Pics\picLevel1.jpg
+C:\Users\1\Desktop\Game\Stars\Stars\bin\Release\Pics\picLevel2.jpg
+C:\Users\1\Desktop\Game\Stars\Stars\bin\Release\Pics\picLevel3.jpg
+C:\Users\1\Desktop\Game\Stars\Stars\bin\Release\Pics\picLevel4.jpg
+C:\Users\1\Desktop\Game\Stars\Stars\bin\Release\Pics\playerStraight.png
+C:\Users\1\Desktop\Game\Stars\Stars\bin\Release\Pics\Right.png
+C:\Users\1\Desktop\Game\Stars\Stars\bin\Release\Stars.exe.config
+C:\Users\1\Desktop\Game\Stars\Stars\bin\Release\Stars.exe
+C:\Users\1\Desktop\Game\Stars\Stars\bin\Release\Stars.pdb
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Release\Stars.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Release\Interop.WMPRichPreviewLauncher.dll
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Release\Stars.csproj.ResolveComReference.cache
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Release\Stars.Died.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Release\Stars.FinalComic.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Release\Game.Form1.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Release\Stars.ExitFromMenu.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Release\Stars.SettingsFromMenu.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Release\Stars.BlackBackground.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Release\Stars.StarterComic.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Release\Stars.Level1.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Release\Stars.Level2.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Release\Stars.Level3.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Release\Stars.Level4.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Release\Stars.Properties.Resources.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Release\Stars.Settings.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Release\Stars.Winning.resources
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Release\Stars.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Release\Stars.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Release\Stars.exe
+C:\Users\1\Desktop\Game\Stars\Stars\obj\Release\Stars.pdb
+C:\Users\1\Desktop\Game\Stars\Stars\bin\Release\Pics\SongForGame.wav
