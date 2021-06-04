@@ -1,0 +1,179 @@
+C:\Users\zeyter\source\repos\HyperKill\bin\Debug\HyperKill.exe.config
+C:\Users\zeyter\source\repos\HyperKill\bin\Debug\HyperKill.exe
+C:\Users\zeyter\source\repos\HyperKill\bin\Debug\HyperKill.pdb
+C:\Users\zeyter\source\repos\HyperKill\obj\Debug\HyperKill.csprojAssemblyReference.cache
+C:\Users\zeyter\source\repos\HyperKill\obj\Debug\HyperKill.GameField.resources
+C:\Users\zeyter\source\repos\HyperKill\obj\Debug\HyperKill.Properties.Resources.resources
+C:\Users\zeyter\source\repos\HyperKill\obj\Debug\HyperKill.csproj.GenerateResource.cache
+C:\Users\zeyter\source\repos\HyperKill\obj\Debug\HyperKill.csproj.CoreCompileInputs.cache
+C:\Users\zeyter\source\repos\HyperKill\obj\Debug\HyperKill.exe
+C:\Users\zeyter\source\repos\HyperKill\obj\Debug\HyperKill.pdb
+C:\Users\zeyter\Desktop\HyperKill\bin\Debug\HyperKill.exe.config
+C:\Users\zeyter\Desktop\HyperKill\bin\Debug\HyperKill.exe
+C:\Users\zeyter\Desktop\HyperKill\bin\Debug\HyperKill.pdb
+C:\Users\zeyter\Desktop\HyperKill\obj\Debug\HyperKill.csprojAssemblyReference.cache
+C:\Users\zeyter\Desktop\HyperKill\obj\Debug\HyperKill.GameField.resources
+C:\Users\zeyter\Desktop\HyperKill\obj\Debug\HyperKill.Properties.Resources.resources
+C:\Users\zeyter\Desktop\HyperKill\obj\Debug\HyperKill.csproj.GenerateResource.cache
+C:\Users\zeyter\Desktop\HyperKill\obj\Debug\HyperKill.csproj.CoreCompileInputs.cache
+C:\Users\zeyter\Desktop\HyperKill\obj\Debug\HyperKill.exe
+C:\Users\zeyter\Desktop\HyperKill\obj\Debug\HyperKill.pdb
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.1\bin\Debug\HyperKill.exe.config
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.1\bin\Debug\HyperKill.exe
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.1\bin\Debug\HyperKill.pdb
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.1\obj\Debug\HyperKill.csprojAssemblyReference.cache
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.1\obj\Debug\HyperKill.GameField.resources
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.1\obj\Debug\HyperKill.Properties.Resources.resources
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.1\obj\Debug\HyperKill.csproj.GenerateResource.cache
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.1\obj\Debug\HyperKill.csproj.CoreCompileInputs.cache
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.1\obj\Debug\HyperKill.exe
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.1\obj\Debug\HyperKill.pdb
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.1\bin\Debug\nunit.framework.dll
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.1\bin\Debug\nunit.framework.xml
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.1\obj\Debug\HyperKill.csproj.CopyComplete
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.11\bin\Debug\HyperKill.exe.config
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.11\bin\Debug\HyperKill.exe
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.11\bin\Debug\HyperKill.pdb
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.11\bin\Debug\nunit.framework.dll
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.11\bin\Debug\nunit.framework.xml
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.11\obj\Debug\HyperKill.csprojAssemblyReference.cache
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.11\obj\Debug\HyperKill.GameField.resources
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.11\obj\Debug\HyperKill.Properties.Resources.resources
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.11\obj\Debug\HyperKill.csproj.GenerateResource.cache
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.11\obj\Debug\HyperKill.csproj.CoreCompileInputs.cache
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.11\obj\Debug\HyperKill.csproj.CopyComplete
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.11\obj\Debug\HyperKill.exe
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.11\obj\Debug\HyperKill.pdb
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.16\obj\Debug\HyperKill.csprojAssemblyReference.cache
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.16\obj\Debug\HyperKill.GameField.resources
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.16\obj\Debug\HyperKill.Properties.Resources.resources
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.16\obj\Debug\HyperKill.csproj.GenerateResource.cache
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.16\obj\Debug\HyperKill.csproj.CoreCompileInputs.cache
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.16\obj\Debug\HyperKill.exe
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.16\obj\Debug\HyperKill.pdb
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.16\bin\Debug\HyperKill.exe.config
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.16\bin\Debug\HyperKill.exe
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.16\bin\Debug\HyperKill.pdb
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.16\bin\Debug\nunit.framework.dll
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.16\bin\Debug\nunit.framework.xml
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.16\obj\Debug\HyperKill.csproj.CopyComplete
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.165\bin\Debug\HyperKill.exe.config
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.165\bin\Debug\HyperKill.exe
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.165\bin\Debug\HyperKill.pdb
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.165\bin\Debug\nunit.framework.dll
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.165\bin\Debug\nunit.framework.xml
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.165\obj\Debug\HyperKill.csprojAssemblyReference.cache
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.165\obj\Debug\HyperKill.GameField.resources
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.165\obj\Debug\HyperKill.Properties.Resources.resources
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.165\obj\Debug\HyperKill.csproj.GenerateResource.cache
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.165\obj\Debug\HyperKill.csproj.CoreCompileInputs.cache
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.165\obj\Debug\HyperKill.csproj.CopyComplete
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.165\obj\Debug\HyperKill.exe
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.165\obj\Debug\HyperKill.pdb
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2\bin\Debug\HyperKill.exe.config
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2\bin\Debug\HyperKill.exe
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2\bin\Debug\HyperKill.pdb
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2\bin\Debug\nunit.framework.dll
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2\bin\Debug\nunit.framework.xml
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2\obj\Debug\HyperKill.csprojAssemblyReference.cache
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2\obj\Debug\HyperKill.GameField.resources
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2\obj\Debug\HyperKill.Properties.Resources.resources
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2\obj\Debug\HyperKill.csproj.GenerateResource.cache
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2\obj\Debug\HyperKill.csproj.CoreCompileInputs.cache
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2\obj\Debug\HyperKill.csproj.CopyComplete
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2\obj\Debug\HyperKill.exe
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2\obj\Debug\HyperKill.pdb
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2 — копия\bin\Debug\HyperKill.exe.config
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2 — копия\bin\Debug\HyperKill.exe
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2 — копия\bin\Debug\HyperKill.pdb
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2 — копия\bin\Debug\nunit.framework.dll
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2 — копия\bin\Debug\nunit.framework.xml
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2 — копия\obj\Debug\HyperKill.csprojAssemblyReference.cache
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2 — копия\obj\Debug\HyperKill.GameField.resources
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2 — копия\obj\Debug\HyperKill.Properties.Resources.resources
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2 — копия\obj\Debug\HyperKill.csproj.GenerateResource.cache
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2 — копия\obj\Debug\HyperKill.csproj.CoreCompileInputs.cache
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2 — копия\obj\Debug\HyperKill.csproj.CopyComplete
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2 — копия\obj\Debug\HyperKill.exe
+C:\Users\zeyter\Desktop\проект (forms)\backup\HyperKill 0.2 — копия\obj\Debug\HyperKill.pdb
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.3\bin\Debug\HyperKill.exe.config
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.3\bin\Debug\HyperKill.exe
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.3\bin\Debug\HyperKill.pdb
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.3\bin\Debug\nunit.framework.dll
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.3\bin\Debug\nunit.framework.xml
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.3\obj\Debug\HyperKill.csprojAssemblyReference.cache
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.3\obj\Debug\HyperKill.GameField.resources
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.3\obj\Debug\HyperKill.Properties.Resources.resources
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.3\obj\Debug\HyperKill.csproj.GenerateResource.cache
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.3\obj\Debug\HyperKill.csproj.CoreCompileInputs.cache
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.3\obj\Debug\HyperKill.csproj.CopyComplete
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.3\obj\Debug\HyperKill.exe
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.3\obj\Debug\HyperKill.pdb
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.35\bin\Debug\HyperKill.exe.config
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.35\bin\Debug\HyperKill.exe
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.35\bin\Debug\HyperKill.pdb
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.35\bin\Debug\nunit.framework.dll
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.35\bin\Debug\nunit.framework.xml
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.35\obj\Debug\HyperKill.csprojAssemblyReference.cache
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.35\obj\Debug\HyperKill.GameField.resources
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.35\obj\Debug\HyperKill.Properties.Resources.resources
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.35\obj\Debug\HyperKill.csproj.GenerateResource.cache
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.35\obj\Debug\HyperKill.csproj.CoreCompileInputs.cache
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.35\obj\Debug\HyperKill.csproj.CopyComplete
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.35\obj\Debug\HyperKill.exe
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.35\obj\Debug\HyperKill.pdb
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.4\bin\Debug\HyperKill.exe.config
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.4\bin\Debug\HyperKill.exe
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.4\bin\Debug\HyperKill.pdb
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.4\bin\Debug\nunit.framework.dll
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.4\bin\Debug\nunit.framework.xml
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.4\obj\Debug\HyperKill.csprojAssemblyReference.cache
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.4\obj\Debug\HyperKill.GameField.resources
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.4\obj\Debug\HyperKill.Properties.Resources.resources
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.4\obj\Debug\HyperKill.csproj.GenerateResource.cache
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.4\obj\Debug\HyperKill.csproj.CoreCompileInputs.cache
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.4\obj\Debug\HyperKill.csproj.CopyComplete
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.4\obj\Debug\HyperKill.exe
+C:\Users\alexg\Desktop\проект (forms)\backup\HyperKill 0.4\obj\Debug\HyperKill.pdb
+C:\Users\zeyter\Desktop\HyperKill 0.4\bin\Debug\HyperKill.exe.config
+C:\Users\zeyter\Desktop\HyperKill 0.4\bin\Debug\HyperKill.exe
+C:\Users\zeyter\Desktop\HyperKill 0.4\bin\Debug\HyperKill.pdb
+C:\Users\zeyter\Desktop\HyperKill 0.4\bin\Debug\nunit.framework.dll
+C:\Users\zeyter\Desktop\HyperKill 0.4\bin\Debug\nunit.framework.xml
+C:\Users\zeyter\Desktop\HyperKill 0.4\obj\Debug\HyperKill.csprojAssemblyReference.cache
+C:\Users\zeyter\Desktop\HyperKill 0.4\obj\Debug\HyperKill.GameField.resources
+C:\Users\zeyter\Desktop\HyperKill 0.4\obj\Debug\HyperKill.Properties.Resources.resources
+C:\Users\zeyter\Desktop\HyperKill 0.4\obj\Debug\HyperKill.csproj.GenerateResource.cache
+C:\Users\zeyter\Desktop\HyperKill 0.4\obj\Debug\HyperKill.csproj.CoreCompileInputs.cache
+C:\Users\zeyter\Desktop\HyperKill 0.4\obj\Debug\HyperKill.csproj.CopyComplete
+C:\Users\zeyter\Desktop\HyperKill 0.4\obj\Debug\HyperKill.exe
+C:\Users\zeyter\Desktop\HyperKill 0.4\obj\Debug\HyperKill.pdb
+C:\Users\zeyter\Desktop\HyperKill 0.4\obj\Debug\HyperKill.MainMenu.resources
+C:\Users\zeyter\Desktop\HyperKill 0.87\bin\Debug\HyperKill.exe.config
+C:\Users\zeyter\Desktop\HyperKill 0.87\bin\Debug\HyperKill.exe
+C:\Users\zeyter\Desktop\HyperKill 0.87\bin\Debug\HyperKill.pdb
+C:\Users\zeyter\Desktop\HyperKill 0.87\bin\Debug\nunit.framework.dll
+C:\Users\zeyter\Desktop\HyperKill 0.87\bin\Debug\nunit.framework.xml
+C:\Users\zeyter\Desktop\HyperKill 0.87\obj\Debug\HyperKill.csprojAssemblyReference.cache
+C:\Users\zeyter\Desktop\HyperKill 0.87\obj\Debug\HyperKill.GameField.resources
+C:\Users\zeyter\Desktop\HyperKill 0.87\obj\Debug\HyperKill.MainMenu.resources
+C:\Users\zeyter\Desktop\HyperKill 0.87\obj\Debug\HyperKill.Properties.Resources.resources
+C:\Users\zeyter\Desktop\HyperKill 0.87\obj\Debug\HyperKill.csproj.GenerateResource.cache
+C:\Users\zeyter\Desktop\HyperKill 0.87\obj\Debug\HyperKill.csproj.CoreCompileInputs.cache
+C:\Users\zeyter\Desktop\HyperKill 0.87\obj\Debug\HyperKill.csproj.CopyComplete
+C:\Users\zeyter\Desktop\HyperKill 0.87\obj\Debug\HyperKill.exe
+C:\Users\zeyter\Desktop\HyperKill 0.87\obj\Debug\HyperKill.pdb
+C:\Users\alexg\Desktop\HyperKill 0.95\bin\Debug\HyperKill.exe.config
+C:\Users\alexg\Desktop\HyperKill 0.95\bin\Debug\HyperKill.exe
+C:\Users\alexg\Desktop\HyperKill 0.95\bin\Debug\HyperKill.pdb
+C:\Users\alexg\Desktop\HyperKill 0.95\bin\Debug\nunit.framework.dll
+C:\Users\alexg\Desktop\HyperKill 0.95\bin\Debug\nunit.framework.xml
+C:\Users\alexg\Desktop\HyperKill 0.95\obj\Debug\HyperKill.csprojAssemblyReference.cache
+C:\Users\alexg\Desktop\HyperKill 0.95\obj\Debug\HyperKill.MainMenu.resources
+C:\Users\alexg\Desktop\HyperKill 0.95\obj\Debug\HyperKill.Properties.Resources.resources
+C:\Users\alexg\Desktop\HyperKill 0.95\obj\Debug\HyperKill.csproj.GenerateResource.cache
+C:\Users\alexg\Desktop\HyperKill 0.95\obj\Debug\HyperKill.csproj.CoreCompileInputs.cache
+C:\Users\alexg\Desktop\HyperKill 0.95\obj\Debug\HyperKill.csproj.CopyComplete
+C:\Users\alexg\Desktop\HyperKill 0.95\obj\Debug\HyperKill.exe
+C:\Users\alexg\Desktop\HyperKill 0.95\obj\Debug\HyperKill.pdb
+C:\Users\alexg\Desktop\HyperKill 0.95\obj\Debug\HyperKill.GameForm.resources

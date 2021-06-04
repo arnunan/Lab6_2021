@@ -1,0 +1,14 @@
+C:\Users\zeyter\Desktop\HyperKill 0.87\bin\Release\HyperKill.exe.config
+C:\Users\zeyter\Desktop\HyperKill 0.87\bin\Release\HyperKill.exe
+C:\Users\zeyter\Desktop\HyperKill 0.87\bin\Release\HyperKill.pdb
+C:\Users\zeyter\Desktop\HyperKill 0.87\bin\Release\nunit.framework.dll
+C:\Users\zeyter\Desktop\HyperKill 0.87\bin\Release\nunit.framework.xml
+C:\Users\zeyter\Desktop\HyperKill 0.87\obj\Release\HyperKill.GameField.resources
+C:\Users\zeyter\Desktop\HyperKill 0.87\obj\Release\HyperKill.MainMenu.resources
+C:\Users\zeyter\Desktop\HyperKill 0.87\obj\Release\HyperKill.Properties.Resources.resources
+C:\Users\zeyter\Desktop\HyperKill 0.87\obj\Release\HyperKill.csproj.GenerateResource.cache
+C:\Users\zeyter\Desktop\HyperKill 0.87\obj\Release\HyperKill.csproj.CoreCompileInputs.cache
+C:\Users\zeyter\Desktop\HyperKill 0.87\obj\Release\HyperKill.csproj.CopyComplete
+C:\Users\zeyter\Desktop\HyperKill 0.87\obj\Release\HyperKill.exe
+C:\Users\zeyter\Desktop\HyperKill 0.87\obj\Release\HyperKill.pdb
+C:\Users\zeyter\Desktop\HyperKill 0.87\obj\Release\HyperKill.csprojAssemblyReference.cache
